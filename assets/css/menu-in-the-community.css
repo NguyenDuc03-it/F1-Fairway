@@ -72,3 +72,13 @@
     letter-spacing: 0;
     justify-content: flex-start;
 }
+.In-the-Community-1_community-page-left--text__large{
+    font-size: 30rem;
+    line-height: 36rem;
+    font-weight: 700;
+}
+.In-the-Community-1_community-page-left--text__small {
+    line-height: 24rem;
+    font-weight: 500;
+    font-size: 16rem;
+}
