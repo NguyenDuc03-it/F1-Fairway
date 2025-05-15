@@ -1,0 +1,74 @@
+.In-the-Community-1_hero-module{
+    background-image: url(../img/In-the-Community-1.png);
+    background-size: cover;
+    width: 1920rem;
+    height: 422.13rem;
+}
+.In-the-Community-1_community-page-div{
+    border-radius: 25rem;
+    margin-top: -30rem;
+    position: relative;
+    width: 1220rem;
+    height: 347.38rem;
+    background-color: white;
+    padding: 53.5rem 0rem 53.5rem 45rem;
+    justify-content: space-between;
+}
+.In-the-Community-1_section-quote-wrapper{
+    gap: 50rem;
+    background-color: rgba(228, 238, 231, 0.7);
+    width: 1920rem;
+    height: 388rem;
+    color: rgba(40, 62, 57, 1);
+}
+.hero-module--logo{
+    width: 575rem;
+    height: 158.13rem;
+}
+.In-the-Community-1_community-page-left{
+    width: 549rem;
+    height: 240rem;
+    gap: 24rem;
+}
+.In-the-Community-1_human{
+    width: 572.5rem;
+    height: 312.38rem;
+    inset: -33rem -15rem auto auto;
+    border-radius: 10rem 10rem 10rem 175rem;
+    background-size: cover;
+    background-image: url(../img/In-the-Community-1_human.png);
+    position: relative;
+}
+.In-the-Community-1_Steve-Jacobson-circle-avatar{
+    width: 168rem;
+    height: 168rem;
+    background-color: rgba(255, 255, 255, 1); 
+    border-radius: 84rem; 
+    border: 5rem solid rgba(255, 255, 255, 1); 
+    box-shadow: 0px 0px 6rem -3rem rgba(0, 0, 0, 1);
+    background-size: cover;
+    background-image: url('../img/In-the-Community-1_Steve-Jacobson-circle-avatar.png');
+    background-position: center;
+}
+.In-the-Community-1_section-quote-div{
+    width: 507rem;
+    height: 190rem;
+}
+.In-the-Community-1_section-quote__large{
+        width: 507rem;
+    height: 160rem;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 30rem;
+    line-height: 40rem;
+    letter-spacing: 0;
+    color: rgba(40, 62, 57, 1);
+}
+.In-the-Community-1_section-quote__small{
+
+    font-weight: 600;
+    font-size: 18rem;
+    line-height: 20rem;
+    letter-spacing: 0;
+    justify-content: flex-start;
+}
