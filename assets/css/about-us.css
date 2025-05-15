@@ -1,3 +1,199 @@
+/* about-us-2 */
+
+.highight-text-green {
+  color: #00973a;
+}
+.borrower-reviews {
+  margin-top: 66rem;
+  width: 1920rem;
+  height: 771.39rem;
+  background: linear-gradient(
+          to bottom,
+          rgba(255, 255, 255, 1),
+          rgba(255, 255, 255, 0.8)
+  ),
+  url("assets/img/borrower-reviews.png");
+  background-repeat: repeat;
+  background-size: contain;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-medium {
+  margin-top: 60rem;
+  text-align: center;
+  width: 100%;
+  max-width: 768rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  font-size: 64rem;
+  line-height: 40rem;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  letter-spacing: 3rem;
+  line-height: 15.4rem;
+}
+
+.testimonial-slider {
+  width: 1920rem;
+  height: 371rem;
+  gap: 6rem;
+  padding-top: 45rem;
+  padding-left: 6rem;
+  overflow: hidden;
+}
+
+.review-card {
+  width: 290rem;
+  height: 316rem;
+  background-image: url(img/image.png), linear-gradient(#fff, #f7f7f7);
+  border-radius: 12rem;
+  position: relative;
+  border-style: solid;
+  border-width: 1rem 1rem 3rem 1rem;
+  border-color: rgba(239, 237, 232, 0.9);
+  text-align: center;
+  padding-left: 25rem;
+  padding-right: 25rem;
+  flex: 0 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.review-circle {
+  position: absolute;
+  top: -34rem;
+  transform: translateX(-50%);
+  left: 50%;
+  border-radius: 80rem;
+  width: 72rem;
+  height: 72rem;
+  border-style: solid;
+  border-color: #0f6b4b;
+  border-width: 1rem;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.review-inner {
+  border-radius: 80rem;
+  width: 64rem;
+  height: 64rem;
+  border-style: solid;
+  border-color: #00973a;
+  border-width: 4rem;
+  background-image: radial-gradient(#fff, #f3fff1);
+  color: #0f6b4b;
+  font-size: 20.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stars {
+  margin-top: 60rem;
+  width: 120rem;
+  height: 19rem;
+}
+
+.date {
+  border-radius: 20rem;
+  width: 120rem;
+  height: 30rem;
+  border-style: solid;
+  border-color: #fff;
+  border-width: 2rem;
+  background-color: #f3fff1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-button-wrapper {
+  width: 124rem;
+  height: 50rem;
+  border-radius: 50rem;
+  border: 2rem solid #cccccc;
+  padding: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.back {
+  margin-right: 32rem;
+}
+
+.floating-btn-container {
+  width: 204.16rem;
+  height: 48rem;
+  border-radius: 200rem;
+  background-color: #0f6b4b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-paints {
+  margin-top: 53rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1215rem;
+  height: 441.89rem;
+  box-shadow: 5rem 5rem #fff, 7rem 7rem #00973a;
+  border-radius: 6rem;
+  border: 1px solid #ecebea;
+  padding: 50rem 31rem 39rem 36rem;
+}
+
+.card-paints-top {
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-badge {
+  width: 550rem;
+  height: 242.89rem;
+  margin-right: 34.5rem;
+}
+
+.title-badge {
+  width: 551.97rem;
+  border-top: 2rem solid #0f6b4b;
+  position: relative;
+}
+
+.p-badge-title {
+  position: absolute;
+  top: -22rem;
+  text-transform: uppercase;
+  letter-spacing: -1rem;
+}
+
+.p-badge-first {
+  margin-top: 31rem;
+}
+
+.card-paints-bot {
+  width: 1148rem;
+  border-top: 1rem solid rgba(0, 0, 0, 0.1);
+  justify-content: space-around;
+  padding-top: 33.59rem;
+  text-align: center;
+}
+
+.stat-item p {
+  text-transform: uppercase;
+  letter-spacing: 1.2rem;
+}
 /* about-us-1 */
 /* Code Huy */
 body{
