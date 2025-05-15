@@ -265,6 +265,12 @@ body{
   border-radius: 160em;
   background-color: #0f6b4b;
 }
+
+@media only screen and (max-width: 480px) {
+  .about-us-3_content-btn {
+    display: block;
+  }
+}
 /* end - about-us-3 */
 
 
