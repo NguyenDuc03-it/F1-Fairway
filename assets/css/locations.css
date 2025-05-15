@@ -1,7 +1,6 @@
 /* tuyenvp location-1 */
 .locations-1 {
     height: auto;
-    aspect-ratio: 1920/746;
     background-image: url(/assets/img/locations-1.png);
     background-size: cover;
     background-position: top;
@@ -140,5 +139,57 @@
     line-height: normal;
 }
 
+@media only screen and (max-width: 768px) {
+    .locations-1-content {
+        flex-direction: column-reverse;
+        margin-top: 30rem;
+    }
+
+    .location-1-content-left-title {
+        width: 50% !important;
+        display: flex;
+        padding-left: 20rem !important;
+    }
+
+    .location-1-content-left-list-items {
+        flex-direction: column;
+    }
+
+}
 
 
+@media only screen and (max-width: 480px) {
+    .locations-1-content {
+        width: 80% !important;
+    }
+
+    .location-1-content-right-button {
+        flex-direction: column;
+    }
+
+    .location-1-content-right-button-search-by-address {
+        border-bottom-style: none !important;
+        border-top-left-radius: 15rem !important;
+        border-top-right-radius: 15rem !important;
+        border-bottom-left-radius: 0 !important;
+        border-right-style: none;
+    }
+
+    .location-1-content-right-button-search-by-name {
+        width: 100% !important;
+        border-top-style: none !important;
+        border-bottom-left-radius: 15rem !important;
+        border-bottom-right-radius: 15rem !important;
+        border-top-right-radius: 0 !important;
+        border-left: 2rem solid #84BD00;
+    }
+
+    .location-1-content-right-tabpanel-input::placeholder {
+        color: rgba(40, 62, 57, 0.50);
+        font-family: Inter;
+        font-size: 17.297rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+}
