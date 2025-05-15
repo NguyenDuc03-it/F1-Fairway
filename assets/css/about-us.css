@@ -1,0 +1,31 @@
+/* about-us-3 */
+.about-us-3_video {
+  width: 1220rem;
+  height: 686.56rem;
+}
+
+.about-us-3_content {
+  width: 1220rem;
+}
+
+.about-us-3_content-title {
+  font-size: 28.8rem;
+  line-height: 30.4rem;
+  margin: 0;
+  padding-left: 15rem;
+}
+
+.content_leadership {
+  margin-top: 20.86rem;
+  gap: 15rem 50rem;
+  flex-wrap: wrap;
+  width: 1220rem;
+}
+
+.about-us-3_content-btn {
+  display: none;
+  width: 180rem;
+  height: 48rem;
+  border-radius: 160em;
+  background-color: #0f6b4b;
+}
