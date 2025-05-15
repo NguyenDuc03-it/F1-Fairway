@@ -499,7 +499,6 @@ body {
 }
 
 .f-shrink-0 {
-  display: flex;
   flex-shrink: 0;
 }
 
