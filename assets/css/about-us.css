@@ -1,4 +1,7 @@
 /* about-us-1 */
+body{
+  flex-direction: column;
+}
 .about-us-1 {
 	width: 1920rem;
 	height: 1328rem;
@@ -94,14 +97,14 @@
 	width: 1280rem;
 	height: 250rem;
 	background-image: url("../img/about-us-1_con2.png");
-	overflow: hidden;
 	background-size: cover;
 	margin-left: 320rem;
 	gap: 152rem;
 }
 
 .about-us-1_con2_box {
-	padding-left: 48rem;
+	margin-top: -48rem;
+  padding-left: 54rem;
 }
 
 .about-us-1_con2_textL1 {
@@ -262,3 +265,4 @@
   border-radius: 160em;
   background-color: #0f6b4b;
 }
+/* end - about-us-3 */
