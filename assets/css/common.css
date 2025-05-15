@@ -291,8 +291,7 @@ body {
 	width: 42rem;
 	height: 42rem;
 }
-.fc-green {
-}
+
 
 .details_title {
 	border-left: 5px solid #84bd00;
@@ -355,7 +354,6 @@ body {
   height: 48rem;
   background-color: #0f6b4b;
   border-radius: 200rem;
->>>>>>> dev
 }
 
 .fst-italic {
@@ -382,7 +380,6 @@ body {
   height: 48rem;
   border-radius: 24rem;
   background: #ff8200;
->>>>>>> dev
 }
 
 .small-icon {
@@ -493,7 +490,6 @@ body {
   border-width: 1rem;
   background: #ffffff;
   border: 1rem solid #0000001a;
->>>>>>> dev
 }
 
 .border-radius-12 {
@@ -789,4 +785,5 @@ body {
   .lh-mb-18 {
     line-height: 18;
   }
+
 }
