@@ -1,0 +1,54 @@
+.locations-2.mt-24 {
+  width: 1280rem;
+  height: 250rem;
+  background-image: url('/assets/img/locations-2.mt-24.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.text-section-box img{
+    width: 122.3rem;
+    height: 111.16rem;
+}
+
+.banner-content {
+margin-top: -30rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-section-box{
+    display: flex;
+}
+.text-section {
+    margin-left: 40rem;
+  width: 921.59rem;
+}
+
+.image-section {
+  width: 341.78rem;
+  position: relative;
+}
+.title.fs-48 {
+    width: 709.3rem;
+    padding-left: 18rem;
+    border-left: 2rem solid;
+    font-size: 48rem;
+    font-weight: 800;
+}
+
+.sub.fs-16 {
+  font-size: 16rem;
+  margin-top: 10px;
+}
+
+.link-text.fs-13 {
+  font-size: 13rem;
+  margin-top: 45.84rem;
+}
+.link-text.fs-13 a{
+    color: white;
+}
+.award-img {
+  position: absolute;
+  top: -35rem;
+}
