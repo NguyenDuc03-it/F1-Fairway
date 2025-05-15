@@ -2,11 +2,11 @@
 .about-us-1 {
 	width: 1920rem;
 	height: 1328rem;
+  position: relative;
 }
 
 .about-us-1_wwa {
-	padding-top: 72rem;
-	background-image: url("img/background1.png");
+	background-image: url("../img/about-us-1_wwa.png");
 	overflow: hidden;
 	background-size: cover;
 	width: 1920rem;
@@ -14,7 +14,7 @@
 }
 
 .about-us-1_wwa_contentLeft {
-	padding-top: 75rem;
+	padding-top: 76rem;
 	margin-right: 62.8rem;
 	width: 616rem;
 }
@@ -85,7 +85,7 @@
 }
 
 .about-us-1_wwa_contentRight {
-	padding-top: 134rem;
+	margin-top: 134rem;
 	width: 485.2rem;
 	height: 460.39rem;
 }
@@ -93,7 +93,7 @@
 .about-us-1_con2 {
 	width: 1280rem;
 	height: 250rem;
-	background-image: url("img/backgroud2.png");
+	background-image: url("../img/about-us-1_con2.png");
 	overflow: hidden;
 	background-size: cover;
 	margin-left: 320rem;
@@ -208,14 +208,15 @@
 }
 
 .about-us-1_con4 {
-	width: 50rem;
-	height: 50rem;
-	padding-top: 1127rem;
-	padding-right: 14rem;
-	border-radius: 25rem;
-	border: 1rem solid #EBEBEB;
-	background: #FFF;
-	box-shadow: 0rem 0rem 10rem -4rem rgba(0, 0, 0, 0.15);
+	right: 14rem;
+  top: 1043rem;
+  width: 50rem;
+  height: 50rem;
+  border-radius: 25rem;
+  border: 1rem solid #EBEBEB;
+  background: #FFF;
+  box-shadow: 0rem 0rem 10rem -4rem rgba(0, 0, 0, 0.15);
+  position: absolute;
 }
 
 .about-us-1_con4_iconUp {
