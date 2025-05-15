@@ -30,3 +30,131 @@
   background-color: #0f6b4b;
 }
 /* end - about-us-3 */
+
+
+/* about-us-4 */
+.about-us-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-us-4-content-top {
+  width: 1220rem;
+  height: 475.59rem;
+  background-color: #FFF;
+}
+
+.about-us-4-content-top-title {
+  display: inline-flex;
+  height: 65.59rem;
+  padding: 0rem 0rem 0rem 15rem;
+  line-height: 65.6rem;
+  border-left: 5rem solid #84BD00;
+  margin-bottom: 12rem;
+}
+
+.about-us-4-content-top-below {
+  gap: 15rem;
+}
+
+.about-us-4-content-top-title-green {
+  line-height: 65.6rem;
+}
+
+.about-us-4-content-top-below-tablist {
+  width: 305rem;
+  padding: 25.22rem 17rem 35rem 17rem;
+  gap: 9.78rem;
+  border-radius: 10rem;
+  background: #115740;
+}
+
+.about-us-4-content-top-below-tablist-items-active {
+  padding: 14rem 6rem;
+  justify-content: flex-end;
+  gap: 8rem;
+  border-radius: 200rem 0rem 0rem 200rem;
+}
+
+.about-us-4-content-top-below-tablist-items-time {
+  text-align: right;
+  width: 151.848rem;
+  height: 20rem;
+}
+
+.about-us-4-content-top-below-tablist-items-arrow {
+  width: 16rem;
+  height: 19rem;
+  justify-content: flex-end;
+  font-size: 50rem;
+  line-height: 28rem;
+}
+
+.about-us-4-content-top-below-tablist-items {
+  width: 271rem;
+  height: 48rem;
+  padding: 14rem 29.647rem 14rem 142.25rem;
+  justify-content: flex-end;
+  border-radius: 200rem 0rem 0rem 200rem;
+  background: rgba(239, 237, 232, 0.90);
+}
+
+.about-us-4content-top-below-tablist-items-time {
+  text-align: right;
+  width: 151.848rem;
+  height: 20rem;
+}
+
+.about-us-4-content-top-below-text {
+  width: 840rem;
+  color: #283E39;
+  font-family: "Open Sans";
+  font-size: 22.4rem;
+  width: 900rem;
+  height: 156rem;
+  padding: 30rem;
+  box-shadow: 1rem 1rem 6rem -3rem #000;
+}
+
+.about-us-4-container-content-bottom {
+  height: auto;
+  aspect-ratio: 1920 / 648;
+  background-image: url(/assets/img/about-us-4-container-content-bottom.png);
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+
+.about-us-4-content-bottom {
+  background: radial-gradient(circle, rgba(17, 87, 64, 0.9), rgba(15, 24, 22, 0.95));
+  height: 100%;
+}
+
+.about-us-4-content-bottom-watermark {
+  width: 1920rem;
+}
+
+.about-us-4-content-bottom-info {
+  position: absolute;
+}
+
+.about-us-4-content-bottom-info-title {
+  line-height: 65.6 rem;
+}
+
+.about-us-4-content-bottom-info-passage {
+  width: 767rem;
+  text-shadow: 1rem 1rem 4rem #000;
+  margin-top: 19.97rem;
+}
+
+.about-us-4-content-bottom-info-button {
+  width: 175.11rem;
+  height: 48rem;
+  padding: 15rem 29.622rem 15rem 30rem;
+  background: #FF8200;
+  margin-top: 15.03rem;
+}
