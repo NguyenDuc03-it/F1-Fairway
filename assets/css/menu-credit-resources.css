@@ -227,14 +227,3 @@
     flex: start;
 }
 
-@media screen and (max-width: 768px){
-    .m-credit-resources-4_content_sidebar{
-        width: 100%;
-        border-right: none;
-        border-bottom: 1rem solid #dbdbdb;
-    }
-    .m-credit-resources-4_content_main-container{
-        display: grid;
-        grid-template-columns: 1fr;
-    }
-}
