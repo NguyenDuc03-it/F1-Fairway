@@ -321,8 +321,18 @@ body {
   color: #fff;
 }
 
+.ml-18{
+  margin-left: 18rem;
+}
+
 .text-283E39 {
   color: #283e39;
+}
+
+.ic-link {
+  width: 10rem;
+  height: 24rem;
+  margin-right: 11rem;
 }
 
 .badge {
@@ -664,40 +674,40 @@ body {
   padding: 5rem;
 }
 
-.m-credit-resources-4_content_main-container_text-block_icon{
+.m-credit-resources-4_content_main-container_text-block_icon {
   width: 10rem;
   height: 10rem;
   margin-right: 10rem;
 }
 
-.m-credit-resources-4_content_main-container_resource_title{
+.m-credit-resources-4_content_main-container_resource_title {
   display: inline-block;
   padding: 1rem 14.65rem 1rem 15rem;
   flex-wrap: wrap;
   font-size: 18rem;
   font-weight: 400;
-  color: #3F4444;
-  border: 1rem solid #84BD00;
-  background-color: #84BD00;
+  color: #3f4444;
+  border: 1rem solid #84bd00;
+  background-color: #84bd00;
   color: #ffffff;
   border-radius: 0 10rem 0 10rem;
   margin-bottom: 5rem;
 }
 
-.m-credit-resources-4_content_main-container_text-block{
+.m-credit-resources-4_content_main-container_text-block {
   display: flex;
   align-items: center;
   width: fit-content;
   height: 100%;
 }
 
-.m-credit-resources-4_content_main-container_text-block_text{
+.m-credit-resources-4_content_main-container_text-block_text {
   flex-wrap: wrap;
   font-weight: 400;
   color: #ffffff
 }
 
-.m-credit-resources-4_content_main-container_resource{
+.m-credit-resources-4_content_main-container_resource {
   width: 358.77rem;
 }
 
