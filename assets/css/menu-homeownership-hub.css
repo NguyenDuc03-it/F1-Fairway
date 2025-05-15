@@ -1,0 +1,40 @@
+.recent-video-content-left{
+    background-image: url("recent-video-content");
+    width: 1920rem;
+    height: 417.44rem;
+    gap: 28rem;
+}
+.recent-video-content-left{
+    width: 575rem;
+    height: 249rem;
+}
+.newsroom-4-video-wrapper{
+    width: 575rem; 
+    height: 323.44rem; 
+    border-radius: 12rem; 
+
+}
+.recent-video-content-left-header{
+    border-left: 5rem solid rgba(132, 189, 0, 1);
+    height: 61rem;
+    font-size: 30rem;
+    line-height: 30.4rem;
+    vertical-align: middle;
+}
+.recent-video-content-left-text{
+    margin-top: 24rem;
+    height: 96rem;
+    font-weight: 96rem;
+    line-height: 24rem;
+    vertical-align: middle; 
+}
+.recent-video-content-button{
+    margin-top: 28rem;
+    background-color: #0F6B4B;
+    line-height: 20rem;
+    font-size: 14rem;
+    font-weight: 600;
+    letter-spacing: 0;
+    text-align: center;
+
+}
