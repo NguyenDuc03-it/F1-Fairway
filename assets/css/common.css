@@ -302,13 +302,7 @@ body {
 }
 
 .text-283E39 {
-<<<<<<< HEAD
-  border-left: 5rem solid #84bd00;
-  font-size: 28.8rem;
-  line-height: 30.4rem;
-=======
   color: #283e39;
->>>>>>> dev
 }
 
 .badge {
@@ -588,8 +582,6 @@ body {
 
 .bg-white {
   background: #fff;
-<<<<<<< HEAD
-=======
 }
 
 .video-3_card {
@@ -649,7 +641,6 @@ body {
     	border-radius: 6rem;
     	position: relative;
     	padding: 5rem;
->>>>>>> dev
 }
 
 @media only screen and (max-width: 768px) {
