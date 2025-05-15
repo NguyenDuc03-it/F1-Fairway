@@ -608,7 +608,8 @@ body {
 
 .video-3_card_content-collection{
 	background-color: rgba(0, 0, 0, 0.7);
-	padding: 31.89rem 44.75rem 31.11rem 45.25rem;
+	padding-top: 31.8rem;
+	padding-bottom: 31.11rem;
 	border-radius: 12rem;
 	text-align: center;
 	max-width: 468rem;
