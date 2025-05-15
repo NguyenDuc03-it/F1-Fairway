@@ -221,11 +221,20 @@ margin-bottom: 4rem;
     cursor: pointer;
 }
 .newsroom-4_press-releases-image{
-    background-image: url("../img/releases-image1.png");
+    
     background-size: cover;
     height: 80rem;
     width: 100rem;
     margin-bottom: 5rem;
+}
+#newroom-4-1{
+    background-image: url("../img/releases-image1.png");
+}
+#newroom-4-2{
+    background-image: url("../img/releases-image2.png")
+}
+#newroom-4-3{
+    background-image: url("../img/releases-image3.png")
 }
 .d-grid{
     display: grid;
