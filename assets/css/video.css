@@ -22,16 +22,24 @@
     background-color: #84BD00
 }
 
+.video-3_card_content-collection-1{
+    padding-left: 45.25rem;
+    padding-right: 44.75rem;
+}
+
 .video-3_card_content-collection-2{
     padding-left: 34.75rem;
+    padding-right: 34.25rem;
 }
 
 .video-3_card_content-collection-3{
     padding-left: 36.25rem;
+    padding-right: 36.75rem;
 }
 
 .video-3_card_content-collection-4{
     padding-left: 50.75rem;
+    padding-right: 50.25rem;
 }
 
 @media screen and (max-width: 768px){
