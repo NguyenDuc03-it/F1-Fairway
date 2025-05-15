@@ -696,11 +696,11 @@ body {
 .m-credit-resources-4_content_main-container_text-block_text {
   flex-wrap: wrap;
   font-weight: 400;
+  color: #ffffff
 }
 
 .m-credit-resources-4_content_main-container_resource {
   width: 358.77rem;
-  height: 546rem;
 }
 
 @media only screen and (max-width: 768px) {

@@ -214,3 +214,108 @@
   width: 251rem;
 }
 /* end code Huy */
+
+.m-credit-resources-4{
+    width: 1920rem;
+    height: 828rem;
+    background-color: #115740;
+    display: flex;
+    justify-content: center;
+}
+
+.m-credit-resources-4_bg_img{
+    position: absolute;
+    width: 350rem;
+    height: 350rem;
+    padding: 123rem 50rem 73rem 50rem;
+    border-radius: 200rem;
+    background-color: rgba(255, 255, 255, 1);
+    top: -175rem;
+    left: 465rem;
+}
+
+.m-credit-resources-4_img{
+    width: 250rem;
+    height: 154rem;
+}
+
+.m-credit-resources-4_content{
+    position: relative;
+    padding: 170rem 90rem 0 90rem;
+}
+
+.m-credit-resources-4_content_sidebar{
+    padding-top: 40rem;
+}
+
+.m-credit-resources-4_content_sidebar_tab1{
+    width: 245.47rem;
+    height: 62rem;
+    border-right: 5rem solid #ffffff;
+    opacity: 75%;
+    color: #ffffff;
+}
+
+.m-credit-resources-4_content_sidebar_tab2{
+    width: 245.47rem;
+    height: 62rem;
+    border-right: 5rem solid #84BD00;
+    border-top-left-radius: 15rem;
+    border-bottom-left-radius: 15rem;
+    background-color: #ffffff;
+    color: #3F4444;
+}
+
+.m-credit-resources-4_content_sidebar_tab1 p{
+    padding: 20rem 0 20rem 20rem;
+    font-weight: 300;
+}
+
+.m-credit-resources-4_content_sidebar_tab2 p{
+    padding: 20rem 0 20rem 20rem;
+    font-weight: 700;
+}
+
+.m-credit-resources-4_content_main{
+    width: 853.3rem;
+    height: 658rem;
+    display: grid;
+    grid-template-columns: 670rem 1250rem;
+    padding: 40rem;
+    border-left: 1rem solid #ffffff
+}
+
+.m-credit-resources-4_content_main-container{
+    width: 773.53rem;
+    height: 578rem;
+    display: grid;
+    grid-template-columns: 378.77rem 388.76rem;
+    gap: 6rem;
+}
+
+.m-credit-resources-4_content_main-container_left{
+    flex: start;
+}
+
+.m-credit-resources-4_content_main-container_title{
+    width: 219rem;
+    height: 22rem;
+    color: #84BD00;
+    font-size: 18rem;
+}
+
+.m-credit-resources-4_content_main-container_right{
+    flex: start;
+}
+
+@media screen and (max-width: 768px){
+    .m-credit-resources-4_content_sidebar{
+        width: 100%;
+        border-right: none;
+        border-bottom: 1rem solid #dbdbdb;
+    }
+    .m-credit-resources-4_content_main-container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
