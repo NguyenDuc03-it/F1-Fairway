@@ -182,6 +182,9 @@ body {
 .pr-15 {
   padding-right: 15rem;
 }
+.fs-11_2{
+  font-size: 11.2rem;
+}
 
 .fs-12 {
   font-size: 12rem;
@@ -302,13 +305,8 @@ body {
 }
 
 .text-283E39 {
-<<<<<<< HEAD
-  border-left: 5rem solid #84bd00;
-  font-size: 28.8rem;
-  line-height: 30.4rem;
-=======
   color: #283e39;
->>>>>>> dev
+
 }
 
 .badge {
