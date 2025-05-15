@@ -36,6 +36,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+.fs-11{
+	font-size: 11rem;
+}
 
 .fs-10 {
   font-size: 10rem;
@@ -57,6 +60,7 @@ body {
   margin-top: 36rem;
 }
 
+
 .small-wwa {
   width: 616rem;
   color: #fff;
@@ -66,6 +70,9 @@ body {
 
 .mt-11_61 {
   margin-top: 11.61rem;
+}
+.d-flex{
+	display: flex;
 }
 
 .fd-row {
@@ -126,6 +133,19 @@ body {
   height: 22rem;
 }
 
+.type-details {
+	border: 1px solid #e2e2e2;
+	background: #f8f8f8;
+	background-img: url("");
+	width: 368rem;
+	height: 605.78rem;
+	border-radius: 12rem;
+	padding: 31rem 31rem 0 31rem;
+}
+
+.fc-g1 {
+	color: #0f6b4b;
+}
 .type-details-h605 {
   border: 1rem solid #e2e2e2;
   background: #f8f8f8;
@@ -194,6 +214,9 @@ body {
 
 .pr-15 {
   padding-right: 15rem;
+}
+.fs-11_2{
+  font-size: 11.2rem;
 }
 
 .fs-12 {
@@ -267,31 +290,26 @@ body {
 .fw-700 {
   font-weight: 700;
 }
-
-.fc-green {
-  color: #00973a;
+.swiper-button {
+	width: 42rem;
+	height: 42rem;
 }
 
-.fc-green-p {
-  color: #00973a;
-}
-
-.fc-bl {
-  color: #231f20;
-}
-
-.fc-bl2 {
-  color: #3f4444;
-}
 
 .details_title {
-  font-size: 28.8rem;
-  line-height: 30.4rem;
+	border-left: 5px solid #84bd00;
+	font-size: 28.8rem;
+	line-height: 30.4rem;
   padding-left: 15rem;
+
 }
 
 .text-black {
   color: #000;
+}
+
+.pl-10 {
+  padding-left: 10rem;
 }
 
 .tt-u {
@@ -303,9 +321,11 @@ body {
 }
 
 .bor-5 {
-  border-left: 5rem solid #84bd00;
+	border-left: 5rem solid #84bd00;
 }
-
+.mt-38{
+	margin-top:38rem
+}
 .mt-24 {
   margin-top: 24rem;
 }
@@ -314,8 +334,18 @@ body {
   color: #fff;
 }
 
+.ml-18{
+  margin-left: 18rem;
+}
+
 .text-283E39 {
   color: #283e39;
+}
+
+.ic-link {
+  width: 10rem;
+  height: 24rem;
+  margin-right: 11rem;
 }
 
 .badge {
@@ -401,6 +431,7 @@ body {
 }
 
 .video-card_content-box-h124 {
+
   position: absolute;
   width: 340rem;
   height: 124rem;
@@ -597,26 +628,27 @@ body {
 }
 
 .video-3_card {
-	position: relative;
-	width: 957.5rem;
-	height: 540rem;
-	overflow: hidden;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+  position: relative;
+  width: 957.5rem;
+  height: 540rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.btn-view-collection{
-	background-color: #ff8200;
-	color: black;
-	border: none;
-	padding: 12rem 24rem;
-	border-radius: 100rem;
-	font-weight: 600;
-	font-size: 14rem;
-	cursor: pointer;
-	transition: background-color 0.2s;
+.btn-view-collection {
+  background-color: #ff8200;
+  color: black;
+  border: none;
+  padding: 12rem 24rem;
+  border-radius: 100rem;
+  font-weight: 600;
+  font-size: 14rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
 }
+
 
 .video-3_card_content-collection{
 	background-color: rgba(0, 0, 0, 0.7);
@@ -648,48 +680,77 @@ body {
 
 .newsroom-4_press-releases-block{
 	border-style: solid;
-    	border-width: 1rem 1rem 12rem;
-    	border-color: rgba(243, 255, 241, 1);
-    	background-color: #fff;
-    	border-radius: 6rem;
-    	position: relative;
-    	padding: 5rem;
+	border-width: 1rem 1rem 12rem;
+	border-color: rgba(243, 255, 241, 1);
+	background-color: #fff;
+	border-radius: 6rem;
+	position: relative;
+	padding: 5rem;
 }
 
-.m-credit-resources-4_content_main-container_text-block_icon{
+.video-3_card_title-collection {
+  color: white;
+  font-size: 34rem;
+  font-weight: 600;
+  margin-bottom: 15rem;
+}
+
+.video-3_card_description {
+  color: white;
+  font-size: 14rem;
+  line-height: 1.6;
+  margin-bottom: 20rem;
+}
+
+.newsroom-4_recent-video-content-button:hover {
+  cursor: pointer;
+  background-color: black;
+}
+
+.newsroom-4_press-releases-block {
+  border-style: solid;
+  border-width: 1rem 1rem 12rem;
+  border-color: rgba(243, 255, 241, 1);
+  background-color: #fff;
+  border-radius: 6rem;
+  position: relative;
+  padding: 5rem;
+}
+
+.m-credit-resources-4_content_main-container_text-block_icon {
   width: 10rem;
   height: 10rem;
   margin-right: 10rem;
 }
 
-.m-credit-resources-4_content_main-container_resource_title{
+.m-credit-resources-4_content_main-container_resource_title {
   display: inline-block;
   padding: 1rem 14.65rem 1rem 15rem;
   flex-wrap: wrap;
   font-size: 18rem;
   font-weight: 400;
-  color: #3F4444;
-  border: 1rem solid #84BD00;
-  background-color: #84BD00;
+  color: #3f4444;
+  border: 1rem solid #84bd00;
+  background-color: #84bd00;
   color: #ffffff;
   border-radius: 0 10rem 0 10rem;
   margin-bottom: 5rem;
 }
 
-.m-credit-resources-4_content_main-container_text-block{
+.m-credit-resources-4_content_main-container_text-block {
   display: flex;
   align-items: center;
   width: fit-content;
   height: 100%;
 }
 
-.m-credit-resources-4_content_main-container_text-block_text{
+.m-credit-resources-4_content_main-container_text-block_text {
   flex-wrap: wrap;
   font-weight: 400;
   color: #ffffff
 }
 
-.m-credit-resources-4_content_main-container_resource{
+.m-credit-resources-4_content_main-container_resource {
   width: 358.77rem;
 }
 
@@ -739,4 +800,5 @@ body {
   .lh-mb-18 {
     line-height: 18;
   }
+
 }
