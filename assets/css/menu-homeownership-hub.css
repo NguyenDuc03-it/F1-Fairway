@@ -1,0 +1,369 @@
+
+/* code Huy */
+.m-homeownership-hub-2.dp-flex.jc-center{
+    height: 1902.44rem;
+    width:1220rem;
+    margin-top: 26rem;
+    overflow: hidden;
+    background-size: cover;
+    position: relative;
+}
+.m-homeownership-hub-2_contentLeft{
+    width:710.33rem;
+    height:729.02rem;
+    margin-right:66rem;
+    margin-top:36.44rem;
+    margin-left:36rem;
+}
+.m-homeownership-hub-2_contentLeft_recentVideo.fd-row{
+    width:697.33rem;
+    height:24rem;
+    padding-top:0rem;
+    padding-left:0rem;
+    align-items: center;
+}
+.m-homeownership-hub-2_contentLeft_recentVideo_youtuIcon{
+    width:30rem;
+    height:24rem;
+    margin-right:5rem;
+
+}
+.m-homeownership-hub-2_contentLeft_recentVideo_text.dp-flex.ai-center.content-small{
+    width: 133.443rem;
+    height: 14rem;
+}
+.m-homeownership-hub-2_contentLeft_recentVideo_line.dp-flex.ai-center{
+    margin-left:0rem;
+    width: 526.19rem;
+    height: 1rem;
+    background: rgba(0, 0, 0, 0.10);
+}
+.m-homeownership-hub-2_contentLeft_video{
+    height:404rem;
+    width: 710.33rem;
+    margin-top: 24rem;
+    position: relative;
+}
+.m-homeownership-hub-2_contentLeft_video_videoImg{
+    width: 696.88rem;
+    height: 392rem;
+}
+.m-homeownership-hub-2_contentLeft_video_iconNew.dp-flex{
+    width: 54.97rem;
+    height: 34rem;
+    justify-content: flex-end;
+}
+.m-homeownership-hub-2_contentLeft_text.dp-flex.jc-center.fd-col{
+    width: 697.33rem;
+    padding: 25rem 30rem;
+    align-items: flex-start;
+    gap: 10rem;
+    margin-top:16.24rem;
+}
+.m-homeownership-hub-2_contentLeft_text_tittle.dp-flex.ai-center{
+    border-left: 5rem solid #84BD00;
+    width: 650.33rem;
+    height: 60.78rem;
+    padding: 0rem 49.19rem 0rem 15rem;
+}
+.m-homeownership-hub-2_contentLeft_text_tittle_script.fw-600 {
+    width: 573.14rem;
+    height: 65.39rem;
+    color: #115740;
+    font-size: 28.8rem;
+    line-height: 30.4rem;
+}
+.m-homeownership-hub-2_contentLeft_text_script.fw400.fs14.lh-22{
+    color: #3F4444;
+}
+.m-homeownership-hub-2_contentLeft_button{
+    width: 693.33rem;
+    height: 48rem;
+    padding: 15rem 0rem;
+    border-radius: 200rem;
+    background: #E4EEE7;
+}
+.m-homeownership-hub-2_contentLeft_button_text.fs-14.fw-600.lh-20{
+    width: 154.85rem;
+    height: 18rem;
+    color: #115740;
+}
+.m-homeownership-hub-2_contentRight.dp-flex.fd-col {
+    width: 384.67rem;
+    height: 1866rem;
+    align-items: flex-start;
+    margin-top: 36.44rem;
+}
+.m-homeownership-hub-2_contentRight_recentArticles.fd-row{
+    padding-top:8rem;
+    width:385rem;
+    height:28rem;
+
+}
+.m-homeownership-hub-2_contentRight_recentArticles_youtuIcon{
+        /* width: 24.889rem; */
+    height: 28rem;
+    /* padding-left: 3.56rem; */
+    margin-right: 5rem;
+    border-radius: 50%;
+}
+.m-homeownership-hub-2_contentRight_recentArticles_text.dp-flex.ai-center.content-small{
+    width: 150.947rem;
+    height: 14rem;
+    margin-right:0rem;
+}
+.m-homeownership-hub-2_contentRight_recentArticles_line{
+    width: 200.05rem;
+    height: 1rem;
+    background: rgba(0, 0, 0, 0.10);
+}
+.m-homeownership-hub-2_contentRight_content.fd-col{
+    margin-top:47rem;
+    width: 384.67rem;
+    height: 427rem;
+    border-radius: 5rem;
+    background: rgba(228, 238, 231, 0.30);
+    padding-top:0rem;
+    position: relative;
+}
+.m-homeownership-hub-2_contentRight_content_image.dp-flex{
+    width: 384.67rem;
+    height: 210rem;
+    flex-shrink: 0;
+    justify-content: flex-start;
+}
+.m-homeownership-hub-2_contentRight_content_tittle.dp-flex.ai-center.fd-row{
+    width: 325.67rem;
+    height: 96rem;
+    border-left: 5rem solid #84BD00;
+    margin-top: 20rem;
+    padding: 0rem 6.5rem 0rem 15rem;
+    margin-left: 36rem;
+}
+.m-homeownership-hub-2_contentRight_content_tittle_script.fw-600.lh-24{
+    font-size:22.4rem;
+    color: #115740;
+}
+.m-homeownership-hub-2_contentRight_content_script.fs-14.fw-500.lh-22{
+    color: #3F4444;
+        width: 312rem;
+    margin-left: 36rem;
+    margin-top: 9rem;
+}
+.m-homeownership-hub-2_contentRight_content_published.jd-row{
+    height: 27rem;
+    padding: 9rem 15.632rem 9rem 11rem;
+    gap: 6.686rem;
+    border-radius: 5rem;
+    border: 1rem solid #F3FFF1;
+    background: #FAF8F4;
+    width: 214rem;
+    align-self: flex-end;
+    position: absolute;
+    bottom: -13.5rem;
+}
+.m-homeownership-hub-2_contentRight_content2.fd-col.hidden-mb{
+    margin-top:31rem;
+    width: 385rem;
+    height: fit-content;
+    border-radius: 5rem;
+    background: rgba(228, 238, 231, 0.30);
+    padding-top:0rem;
+    position: relative;
+}
+.m-homeownership-hub-2_contentRight_content2_image.dp-flex{
+    width: 384.67rem;
+    height: 210rem;
+    flex-shrink: 0;
+    justify-content: flex-start;
+}
+.m-homeownership-hub-2_contentRight_content2_tittle.dp-flex.ai-center.fd-row{
+    width: 328.67rem;
+    height: fit-content;
+    border-left: 5rem solid #84BD00;
+    margin-top: 20rem;
+    padding: 0rem 6.5rem 0rem 15rem;
+    margin-left: 36rem;
+}
+.m-homeownership-hub-2_contentRight_content2_tittle_script.fw-600.lh-24{
+    font-size:22.4rem;
+    color: #115740;
+}
+.m-homeownership-hub-2_contentRight_content2_script.fs-14.fw-500.lh-22{
+    color: #3F4444;
+    margin-left: 36rem;
+    width: 312rem
+;
+    margin: 18rem 36rem;
+}
+.m-homeownership-hub-2_contentRight_content2_published.jd-row{
+    display: flex;
+    padding-bottom: 0rem;
+    height: 27rem;
+    position: absolute;
+    padding: 9rem 15.632rem 9rem 11rem;
+    gap: 6.686rem;
+    border-radius: 5rem;
+    border: 1rem solid #F3FFF1;
+    background: #FAF8F4;
+    justify-content: flex-end;
+    bottom: -13.5rem;
+    right: 0;
+}
+.m-homeownership-hub-2_house-img{
+    position: absolute;
+    bottom: 46.08rem;
+    width: 800rem;
+    height: 354rem;
+    left: 168rem;
+}
+.m-homeownership-hub-2_contentLeft_video_iconNew{
+    width: 54.97rem;
+    height: 34rem;
+    position: absolute;
+    width: 54.97rem
+28.3554px
+;
+    height: 34rem;
+    top: -12rem;
+    right: 0rem;
+}
+/* end code Huy */
+/*start code by btung*/
+.menu-homeownership-hub.fd-col{
+	align-items: center;
+}
+.menu-homeownership-hub_upper.pos-r{
+	background-image: url("../img/menu-homeownership-hub_upper.pos-r.png");
+	height: 594rem;
+	width: 1920rem;
+	background-size: 1920rem 594rem;
+}
+.menu-homeownership-hub_upper_content{
+	margin-top: 115rem;
+	margin-left: 350rem;
+	width: 680rem;
+}
+.menu-homeownership-hub_upper_content_nav.fd-row.ai-center {
+	border: 1rem solid rgba(0, 0, 0, 0.1);
+	border-radius: 20rem;
+	background-color: #fff;
+	width: 224rem;
+	height: 22rem;
+}
+.menu-homeownership-hub_upper_content_nav_logo{
+	width: 17rem;
+	height: 18rem;
+	background-color: #F3FFF1;
+	border-radius: 80rem;
+	margin: 0 6rem 0 10rem ;
+}
+.menu-homeownership-hub_upper_content_nav_home.fs-10.fw-600.--solid-green{
+	text-align: start;
+	width: 41rem;
+	margin-right: 8rem;
+	border-right: 1px dashed #84BD00;
+	line-height: 16rem;
+}
+.menu-homeownership-hub_upper_content_nav_current.td-u.fs-10.fw-600{
+	width: 126rem;
+	color: #84BD00;
+	line-height: 16rem;
+}
+.menu-homeownership-hub_upper_content_p.fs-16.text-white.lh-24{
+	margin-top: 40rem;
+	font-weight: 500;
+}
+.menu-homeownership-hub_upper_content_title.text-white{
+	margin-top: 22rem;
+	width: 675rem;
+	height: 160rem;
+	border-left: 5rem solid #84BD00;
+	font-size: 74rem;
+	padding-left: 15rem;
+	text-transform: uppercase;
+	line-height: 80rem;
+}
+.menu-homeownership-hub_bot {
+	align-self: center;
+}
+.menu-homeownership-hub_bot_left{
+	background-image: url(../img/menu-homeownership-hub_bot_left.jpg);
+	width: 610rem;
+	height: 359rem;
+	object-fit: cover;
+	background-size: 610rem 359rem;
+}
+.menu-homeownership-hub_bot_right.fd-col.jc-center{
+	width: 610rem;
+	background-color: #F3FFF1;
+	padding: 72rem 30rem;
+	gap: 10rem;
+}
+.menu-homeownership-hub_bot_right_title.fc-green-p.fw-700.--dark-green{
+	font-size: 33.6rem;
+	padding-left: 15rem;
+	text-align: start;
+	margin-left: 30rem;
+	border-left:5rem solid #84BD00 ;
+	line-height: 35.2rem;
+}
+.menu-homeownership-hub_bot_right_date.fc-g1.mt-10.dp-flex{
+	width: 224.8rem;
+	height: 24rem;
+	background-color: #fff;
+	margin-left: 30rem;
+	letter-spacing: 1rem;
+}
+.menu-homeownership-hub_bot_right_content.mt-10.fc-bl2{
+	margin-left: 30rem;
+}
+
+/*end code by btung*/
+/* start code by dungpc */
+.menu-homeownership-hub-4_recent-video-content{
+    background-image: url("../img/newsroom-4_recent-video-content\ d-flex.png");
+    width: 100%;
+    height: 417.44rem;
+    gap: 28rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu-homeownership-hub-4_recent-video-content-left{
+    width: 575rem;
+    height: 249rem;
+}
+.menu-homeownership-hub-4_recent-video-content-left-title{
+    border-left: 5rem solid rgba(132, 189, 0, 1);
+    height: 61rem;
+    font-size: 30rem;
+    line-height: 30.4rem;
+    vertical-align: middle;
+    padding-left: 15rem;
+}
+.menu-homeownership-hub-4_recent-video-content-left-text{
+    margin-top: 24rem;
+height: 96rem;
+font-weight: 500;
+line-height: 24rem;
+vertical-align: middle;
+}
+.menu-homeownership-hub-4_recent-video-content-button{
+    margin-top: 28rem;
+    background-color: #0F6B4B;
+    line-height: 20rem;
+    font-size: 14rem;
+    font-weight: 600;
+    letter-spacing: 0;
+    text-align: center;
+    width: 192.81rem;
+    height: 48rem;
+    border-radius: 200rem;
+}
+.menu-homeownership-hub-4-video-wrapper iframe{
+    width: 575rem; 
+    height: 323.44rem; 
+    border-radius: 12rem; 
+    overflow: hidden;
+    
+}

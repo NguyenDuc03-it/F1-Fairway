@@ -1,0 +1,248 @@
+/*start code by btung*/
+.m-newroom-1.fd-row.jc-center.pos-r{
+	width: 1920rem;
+	height: 593.41rem;
+	background-image: url("../img/m-newroom-1.fd-row.jc-center.pos-r.png");
+	overflow: hidden;
+	background-size: cover;
+}
+.m-newroom-1_container.fd-row{
+	width: 1181.83rem;
+	height: 492.41rem;
+}
+.m-newroom-1_container_left{
+	margin-right: 74rem;
+	margin-top: 109rem;
+}
+.m-newroom-1_container_left_title.fw-800.text-283E39{
+	font-size: 73.6rem;
+	line-height: 80rem;
+}
+.m-newroom-1_container_left_sub-title.fw-600.text-283E39{
+	line-height: 30.4rem;
+	margin-top: 3rem;
+	font-size: 28.8rem;
+}
+.m-newroom-1_container_left_content.fs-16.fw-400.text-283E39{
+	line-height: 24rem;
+	margin-top: 24.39rem;
+}
+
+.m-newroom-1_container_right_img{
+	width: 350rem;
+	height: 463.4rem;
+	object-fit: cover;
+}
+.m-newroom-1_container_tri-left.pos-a{
+	width: 192rem;
+	height: 452.03265380859375rem;
+	left: 0;
+	top: 169.65rem;
+}
+.m-newroom-1_container_tri-right.pos-a{
+	width: 268.79998779296875rem;
+	height: 632.845703125rem;
+	left: 1651rem;
+}
+.m-newroom-1_container_line-left.pos-a{
+	width: 162.23394775390625rem;
+	height: 131.9216766357422rem;
+	top: 459.03rem;
+	left: 17.58rem;
+}
+.m-newroom-1_container_line-right.pos-a{
+	width: 227.12753295898438rem;
+	height: 184.6903533935547rem;
+	top: 31.03rem;
+	right: 24.61rem;
+}
+.m-newroom-1_container_right_title.fs-11_2.mt-15.text-283E39.lh-24.fw-400{
+	width: 395rem;
+}
+.m-newroom-1_container_right_title_hightlight-green.fs-11_2.mt-15.lh-24.fw-400.td-u{
+	color: #0F6B4B;
+}
+
+/*end code by btung*/
+.m-newsroom-4{
+    width: 1920rem; 
+}
+.newsroom-4_recent-video-content{
+    background-image: url("../img/newsroom-4_recent-video-content\ d-flex.png");
+    width: 100%;
+    height: 417.44rem;
+    gap: 28rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.newsroom-4_feature-banner{
+    width: 1220rem;
+    height: 220rem;
+    background-color: rgba(17, 87, 64, 1);
+    border-radius: 12rem;
+    overflow: hidden;
+    margin-top: 70rem;
+}
+.newsroom-4_subtitle-intro-wrapper{
+    margin-top: 62rem;
+    width: 1220rem;
+    position: relative;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-column-gap: 0px;   
+}
+.newsroom-4_press-release-wrapper{
+    gap: 24rem 10rem;
+    width: 100%;
+    max-width: 1220rem;
+    height: 455rem;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.newsroom-4_press-release-button{
+    width: 227.66rem;       
+    height: 48rem;             
+    background-color: rgba(17, 87, 64, 1); 
+    border-radius: 200rem;  
+    border: none;           
+    color: white;             
+    font-size: 13rem;       
+    cursor: pointer;        
+    transition: all 0.3s ease;
+    margin-top: 80rem;
+}
+.newsroom-4_recent-video-content-left{
+    width: 575rem;
+    height: 249rem;
+}
+.newsroom-4-video-wrapper iframe{
+    width: 575rem; 
+    height: 323.44rem; 
+    border-radius: 12rem; 
+    overflow: hidden;
+    
+}
+.newsroom-4_women{
+    width: 366rem;
+
+}
+.newsroom-4_feature-banner-content{
+    padding: 70rem 50rem 70rem 50rem;
+    height: 79rem;
+
+}
+.newsroom-4_subtitle{
+    font-size: 12rem;
+    line-height: 16rem;
+    letter-spacing: 3rem;
+    text-transform: uppercase;
+    color: rgba(40, 62, 57, 1);
+    vertical-align: middle;
+}
+.newsroom-4_horizontal-line{
+    height: 1rem;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    position: relative;
+    bottom: -6rem;
+}
+.newsroom-4_recent-video-content-left-title{
+    border-left: 5rem solid rgba(132, 189, 0, 1);
+    height: 61rem;
+    font-size: 30rem;
+    line-height: 30.4rem;
+    vertical-align: middle;
+    padding-left: 15rem;
+}
+.newsroom-4_recent-video-content-left-text{
+    margin-top: 24rem;
+height: 96rem;
+font-weight: 500;
+line-height: 24rem;
+vertical-align: middle;
+}
+.newsroom-4_recent-video-content-button{
+    margin-top: 28rem;
+    background-color: #0F6B4B;
+    line-height: 20rem;
+    font-size: 14rem;
+    font-weight: 600;
+    letter-spacing: 0;
+    text-align: center;
+    width: 192.81rem;
+    height: 48rem;
+    border-radius: 200rem;
+}
+.newsroom-4_feature-banner-text-large{
+    font-weight: 800;
+line-height: 30.4rem;
+font-size: 38rem;
+margin-bottom: 4rem;
+}
+.newsroom-4_feature-banner-text-small{
+    margin-top: 2rem;
+}
+.newsroom-4_press-releases-body{
+    grid-template-rows: auto;
+    grid-template-columns: .25fr 1fr;
+    align-items: center;
+    padding: 6rem 6rem 6rem 6rem;
+    font-size: 12rem;
+    line-height: 16rem;
+    text-decoration: underline;border-style: solid;
+    border-width: 1rem 1rem 12rem;
+    border-color: rgba(243, 255, 241, 1);
+    background-color: #fff;
+    border-radius: 6rem;
+    position: relative;
+    padding: 5rem;
+}
+.newsroom-4_press-releases-detail{
+    letter-spacing: 1rem;
+    text-transform: uppercase;
+    border-radius: 5rem;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 9rem;
+    font-size: 10rem;
+    line-height: 9rem;
+    display: flex;
+    position: absolute;
+    bottom: 0rem;
+    right: -1rem;
+    background-color: rgba(250, 248, 244, 1);
+   border: 1rem solid rgba(243, 255, 241, 1);
+  color: rgba(17, 87, 64, 1);
+}
+.newsroom-4_typography__link  {
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 1rem; 
+    text-decoration-color: #000;
+    cursor: pointer;
+}
+.newsroom-4_press-releases-image{
+    
+    background-size: cover;
+    height: 80rem;
+    width: 100rem;
+    margin-bottom: 5rem;
+}
+#newroom-4-1{
+    background-image: url("../img/releases-image1.png");
+}
+#newroom-4-2{
+    background-image: url("../img/releases-image2.png")
+}
+#newroom-4-3{
+    background-image: url("../img/releases-image3.png")
+}
+.d-grid{
+    display: grid;
+}
+.newsroom-4_press-releases-text{
+    margin-left: 16rem;
+}
+.newsroom-4_press-releases-block{
+    margin-top: 30rem;
+    border: 0rem;
+}
