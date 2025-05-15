@@ -754,6 +754,9 @@ body {
   width: 358.77rem;
 }
 
+.mr-5{
+  margin-right: 5rem;
+}
 @media only screen and (max-width: 768px) {
     .hidden-tb {
         display: none;
