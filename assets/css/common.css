@@ -36,6 +36,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+.fs-11{
+	font-size: 11rem;
+}
 
 .fs-10 {
   font-size: 10rem;
@@ -57,6 +60,7 @@ body {
   margin-top: 36rem;
 }
 
+
 .small-wwa {
   width: 616rem;
   color: #fff;
@@ -66,6 +70,9 @@ body {
 
 .mt-11_61 {
   margin-top: 11.61rem;
+}
+.d-flex{
+	display: flex;
 }
 
 .fd-row {
@@ -126,6 +133,19 @@ body {
   height: 22rem;
 }
 
+.type-details {
+	border: 1px solid #e2e2e2;
+	background: #f8f8f8;
+	background-img: url("");
+	width: 368rem;
+	height: 605.78rem;
+	border-radius: 12rem;
+	padding: 31rem 31rem 0 31rem;
+}
+
+.fc-g1 {
+	color: #0f6b4b;
+}
 .type-details-h605 {
   border: 1rem solid #e2e2e2;
   background: #f8f8f8;
@@ -270,27 +290,18 @@ body {
 .fw-700 {
   font-weight: 700;
 }
-
-.fc-green {
-  color: #00973a;
+.swiper-button {
+	width: 42rem;
+	height: 42rem;
 }
 
-.fc-green-p {
-  color: #00973a;
-}
-
-.fc-bl {
-  color: #231f20;
-}
-
-.fc-bl2 {
-  color: #3f4444;
-}
 
 .details_title {
-  font-size: 28.8rem;
-  line-height: 30.4rem;
+	border-left: 5px solid #84bd00;
+	font-size: 28.8rem;
+	line-height: 30.4rem;
   padding-left: 15rem;
+
 }
 
 .text-black {
@@ -310,9 +321,11 @@ body {
 }
 
 .bor-5 {
-  border-left: 5rem solid #84bd00;
+	border-left: 5rem solid #84bd00;
 }
-
+.mt-38{
+	margin-top:38rem
+}
 .mt-24 {
   margin-top: 24rem;
 }
@@ -418,6 +431,7 @@ body {
 }
 
 .video-card_content-box-h124 {
+
   position: absolute;
   width: 340rem;
   height: 124rem;
@@ -645,6 +659,35 @@ body {
 	max-width: 468rem;
 }
 
+.video-3_card_title-collection{
+	color: white;
+	font-size: 34rem;
+	font-weight: 600;
+	margin-bottom: 15rem;
+}
+
+.video-3_card_description{
+	color: white;
+	font-size: 14rem;
+	line-height: 1.6;
+	margin-bottom: 20rem;
+}
+
+.newsroom-4_recent-video-content-button:hover{
+	cursor: pointer;
+	background-color: black;
+}
+
+.newsroom-4_press-releases-block{
+	border-style: solid;
+	border-width: 1rem 1rem 12rem;
+	border-color: rgba(243, 255, 241, 1);
+	background-color: #fff;
+	border-radius: 6rem;
+	position: relative;
+	padding: 5rem;
+}
+
 .video-3_card_title-collection {
   color: white;
   font-size: 34rem;
@@ -757,4 +800,5 @@ body {
   .lh-mb-18 {
     line-height: 18;
   }
+
 }
