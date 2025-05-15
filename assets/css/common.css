@@ -628,6 +628,21 @@ body {
 	margin-bottom: 20rem;
 }
 
+.newsroom-4_recent-video-content-button:hover{
+	cursor: pointer;
+	background-color: black;
+}
+
+.newsroom-4_press-releases-block{
+	border-style: solid;
+    	border-width: 1rem 1rem 12rem;
+    	border-color: rgba(243, 255, 241, 1);
+    	background-color: #fff;
+    	border-radius: 6rem;
+    	position: relative;
+    	padding: 5rem;
+}
+
 @media only screen and (max-width: 768px) {
   .hidden-tb {
     display: none;
