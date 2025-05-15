@@ -1,4 +1,240 @@
-/* id4wndatt - about-us-3 */
+/* about-us-1 */
+body{
+  flex-direction: column;
+}
+.about-us-1 {
+	width: 1920rem;
+	height: 1328rem;
+  position: relative;
+}
+
+.about-us-1_wwa {
+	background-image: url("../img/about-us-1_wwa.png");
+	overflow: hidden;
+	background-size: cover;
+	width: 1920rem;
+	height: 730rem;
+}
+
+.about-us-1_wwa_contentLeft {
+	padding-top: 76rem;
+	margin-right: 62.8rem;
+	width: 616rem;
+}
+
+.about-us-1_wwa_contentLeft_home {
+	width: 153.03rem;
+	height: 22rem;
+	border-radius: 20rem;
+	border: 1rem solid rgba(0, 0, 0, 0.10);
+	background: #FFF;
+	padding-left: 10rem;
+}
+
+.about-us-1_wwa_contentLeft_home_iconShap {
+	width: 17rem;
+	height: 18rem;
+	padding-right: 6rem;
+}
+
+.about-us-1_wwa_contentLeft_home_iconShap_icon {
+	width: 17rem;
+	height: 18rem;
+}
+
+.about-us-1_wwa_contentLeft_home_textHome {
+	color: #0F6B4B;
+	padding-right: 8rem;
+	border-right: 1rem dashed #84BD00;
+	margin-left: 6rem;
+}
+
+.about-us-1_wwa_contentLeft_home_textAbout {
+	color: #84BD00;
+	margin-left: 8rem;
+}
+
+.about-us-1_wwa_contentLeft_tittle {
+	color: #FFF;
+	font-size: 73.6rem;
+	margin-top: 24rem;
+	padding-left: 0rem;
+}
+
+.about-us-1_wwa_contentLeft_text3 {
+	margin-top: 43.88rem;
+}
+
+.about-us-1_wwa_contentLeft_text3_button {
+	border-radius: 200rem;
+	border: 2rem solid #84BD00;
+	background: #FFF;
+	margin-right: 86.09rem;
+	width: 298.89rem;
+	height: 52rem;
+	padding: 17rem 67.794rem 17rem 68.11rem;
+}
+
+.about-us-1_wwa_contentLeft_button_text {
+	width: 162.986rem;
+	height: 18rem;
+	color: #115740;
+}
+
+.about-us-1_wwa_contentLeft_text3_smallButton {
+	width: 155.04rem;
+	height: 24rem;
+	padding-top: 14rem;
+}
+
+.about-us-1_wwa_contentRight {
+	margin-top: 134rem;
+	width: 485.2rem;
+	height: 460.39rem;
+}
+
+.about-us-1_con2 {
+	width: 1280rem;
+	height: 250rem;
+	background-image: url("../img/about-us-1_con2.png");
+	background-size: cover;
+	margin-left: 320rem;
+	gap: 152rem;
+}
+
+.about-us-1_con2_box {
+	margin-top: -48rem;
+  padding-left: 54rem;
+}
+
+.about-us-1_con2_textL1 {
+	width: 707.3rem;
+}
+
+.about-us-1_con2_textL1_iconbighome {
+	width: 120.3rem;
+	height: 111.16rem;
+	margin-right: 18rem;
+	border-right: 2rem solid #FFF;
+}
+
+.about-us-1_con2_textL1_text {
+	width: 569rem;
+	height: 96rem;
+	font-size: 48rem;
+}
+
+.about-us-1_con2_textL2 {
+	width: 790rem;
+	height: 21rem;
+	color: #FFF;
+	margin-top: 10rem;
+}
+
+.about-us-1_con2_textL3 {
+	width: 242rem;
+	height: 320rem;
+}
+
+.about-us-1_con3 {
+	margin-top: 66rem;
+	width: 1280rem;
+	height: 191.91rem;
+	padding-left: 320rem;
+
+}
+
+.about-us-1_con3_head {
+	width: 1220.35rem;
+	padding-left: 30rem;
+	margin-bottom: 23rem;
+
+}
+
+.about-us-1_con3_iconCham {
+	padding-top: 0rem;
+	width: 16rem;
+	height: 16rem;
+	margin-right: 8rem;
+}
+
+.about-us-1_con3_text {
+	padding-top: 0.3rem;
+	width: 193.58rem;
+	height: 14rem;
+	font-size: 11rem;
+	font-weight: 700;
+	letter-spacing: 3rem;
+	text-transform: uppercase;
+}
+
+.about-us-1_con3_line {
+	width: 1002.77rem;
+	height: 1rem;
+	background: rgba(0, 0, 0, 0.10);
+	padding-right: 30rem;
+}
+
+.about-us-1_con3_logo {
+	padding-left: 167rem;
+}
+
+.about-us-1_con3_logo1 {
+	width: 91rem;
+	height: 150rem;
+	margin-right: 101rem;
+}
+
+.about-us-1_con3_logo2 {
+	width: 120rem;
+	height: 150rem;
+	margin-right: 101.25rem;
+}
+
+.about-us-1_con3_logo3 {
+	width: 120rem;
+	height: 66.66rem;
+	margin-right: 100.75rem;
+	margin-top: 42rem;
+}
+
+.about-us-1_con3_logo4 {
+	width: 91rem;
+	height: 150rem;
+	margin-right: 101rem;
+}
+
+.about-us-1_con3_logo5 {
+	width: 120rem;
+	height: 107rem;
+	margin-top: 22rem;
+}
+
+.about-us-1_con4 {
+	right: 14rem;
+  top: 1043rem;
+  width: 50rem;
+  height: 50rem;
+  border-radius: 25rem;
+  border: 1rem solid #EBEBEB;
+  background: #FFF;
+  box-shadow: 0rem 0rem 10rem -4rem rgba(0, 0, 0, 0.15);
+  position: absolute;
+}
+
+.about-us-1_con4_iconUp {
+	width: 26rem;
+	height: 20rem;
+	padding-top: 8rem;
+
+}
+
+.about-us-1_con4_text {
+	padding-bottom: 8rem;
+}
+
+
+/* about-us-3 */
 .about-us-3_video {
   width: 1220rem;
   height: 686.56rem;
@@ -36,3 +272,131 @@
   }
 }
 /* end - about-us-3 */
+
+
+/* about-us-4 */
+.about-us-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-us-4-content-top {
+  width: 1220rem;
+  height: 475.59rem;
+  background-color: #FFF;
+}
+
+.about-us-4-content-top-title {
+  display: inline-flex;
+  height: 65.59rem;
+  padding: 0rem 0rem 0rem 15rem;
+  line-height: 65.6rem;
+  border-left: 5rem solid #84BD00;
+  margin-bottom: 12rem;
+}
+
+.about-us-4-content-top-below {
+  gap: 15rem;
+}
+
+.about-us-4-content-top-title-green {
+  line-height: 65.6rem;
+}
+
+.about-us-4-content-top-below-tablist {
+  width: 305rem;
+  padding: 25.22rem 17rem 35rem 17rem;
+  gap: 9.78rem;
+  border-radius: 10rem;
+  background: #115740;
+}
+
+.about-us-4-content-top-below-tablist-items-active {
+  padding: 14rem 6rem;
+  justify-content: flex-end;
+  gap: 8rem;
+  border-radius: 200rem 0rem 0rem 200rem;
+}
+
+.about-us-4-content-top-below-tablist-items-time {
+  text-align: right;
+  width: 151.848rem;
+  height: 20rem;
+}
+
+.about-us-4-content-top-below-tablist-items-arrow {
+  width: 16rem;
+  height: 19rem;
+  justify-content: flex-end;
+  font-size: 50rem;
+  line-height: 28rem;
+}
+
+.about-us-4-content-top-below-tablist-items {
+  width: 271rem;
+  height: 48rem;
+  padding: 14rem 29.647rem 14rem 142.25rem;
+  justify-content: flex-end;
+  border-radius: 200rem 0rem 0rem 200rem;
+  background: rgba(239, 237, 232, 0.90);
+}
+
+.about-us-4content-top-below-tablist-items-time {
+  text-align: right;
+  width: 151.848rem;
+  height: 20rem;
+}
+
+.about-us-4-content-top-below-text {
+  width: 840rem;
+  color: #283E39;
+  font-family: "Open Sans";
+  font-size: 22.4rem;
+  width: 900rem;
+  height: 156rem;
+  padding: 30rem;
+  box-shadow: 1rem 1rem 6rem -3rem #000;
+}
+
+.about-us-4-container-content-bottom {
+  height: auto;
+  aspect-ratio: 1920 / 648;
+  background-image: url(/assets/img/about-us-4-container-content-bottom.png);
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+
+.about-us-4-content-bottom {
+  background: radial-gradient(circle, rgba(17, 87, 64, 0.9), rgba(15, 24, 22, 0.95));
+  height: 100%;
+}
+
+.about-us-4-content-bottom-watermark {
+  width: 1920rem;
+}
+
+.about-us-4-content-bottom-info {
+  position: absolute;
+}
+
+.about-us-4-content-bottom-info-title {
+  line-height: 65.6 rem;
+}
+
+.about-us-4-content-bottom-info-passage {
+  width: 767rem;
+  text-shadow: 1rem 1rem 4rem #000;
+  margin-top: 19.97rem;
+}
+
+.about-us-4-content-bottom-info-button {
+  width: 175.11rem;
+  height: 48rem;
+  padding: 15rem 29.622rem 15rem 30rem;
+  background: #FF8200;
+  margin-top: 15.03rem;
+}

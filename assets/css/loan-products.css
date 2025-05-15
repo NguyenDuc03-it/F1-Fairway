@@ -81,3 +81,34 @@
   }
 }
 /* end - loan-products-2 */
+/*vinh*/
+.LoanProduct-1{
+    width: 1920rem;
+    height: 674rem;
+    padding-left: 350rem;
+    background-image: url(../img/LoanProduct-1.png);
+    background-size: cover;
+}
+.LoanProduct1-Title {
+    width: 675rem;
+    height: 240rem;
+    padding-top: 22rem;
+    padding-left: 15rem;
+    border-left: 5px solid #84BD00;
+    font-weight: 800;
+    font-size: 74rem;
+    line-height: 80rem;
+}
+.LoanProduct1-icon-home {
+    width: 249rem;
+    height: 22rem;
+    margin-top: 115rem;
+}
+.LoanProduct1-Content{
+    width: 680rem;
+    height: 96rem;
+    padding-top: 40rem;
+    padding-left: 0rem;
+    font-weight: 500;
+}
+/* vinh-end */
