@@ -229,3 +229,94 @@
     right: 0rem;
 }
 /* end code Huy */
+/*start code by btung*/
+.menu-homeownership-hub.fd-col{
+	align-items: center;
+}
+.menu-homeownership-hub_upper.pos-r{
+	background-image: url("../img/menu-homeownership-hub_upper.pos-r.png");
+	height: 594rem;
+	width: 1920rem;
+	background-size: 1920rem 594rem;
+}
+.menu-homeownership-hub_upper_content{
+	margin-top: 115rem;
+	margin-left: 350rem;
+	width: 680rem;
+}
+.menu-homeownership-hub_upper_content_nav.fd-row.ai-center {
+	border: 1rem solid rgba(0, 0, 0, 0.1);
+	border-radius: 20rem;
+	background-color: #fff;
+	width: 224rem;
+	height: 22rem;
+}
+.menu-homeownership-hub_upper_content_nav_logo{
+	width: 17rem;
+	height: 18rem;
+	background-color: #F3FFF1;
+	border-radius: 80rem;
+	margin: 0 6rem 0 10rem ;
+}
+.menu-homeownership-hub_upper_content_nav_home.fs-10.fw-600.--solid-green{
+	text-align: start;
+	width: 41rem;
+	margin-right: 8rem;
+	border-right: 1px dashed #84BD00;
+	line-height: 16rem;
+}
+.menu-homeownership-hub_upper_content_nav_current.td-u.fs-10.fw-600{
+	width: 126rem;
+	color: #84BD00;
+	line-height: 16rem;
+}
+.menu-homeownership-hub_upper_content_p.fs-16.text-white.lh-24{
+	margin-top: 40rem;
+	font-weight: 500;
+}
+.menu-homeownership-hub_upper_content_title.text-white{
+	margin-top: 22rem;
+	width: 675rem;
+	height: 160rem;
+	border-left: 5rem solid #84BD00;
+	font-size: 74rem;
+	padding-left: 15rem;
+	text-transform: uppercase;
+	line-height: 80rem;
+}
+.menu-homeownership-hub_bot {
+	align-self: center;
+}
+.menu-homeownership-hub_bot_left{
+	background-image: url(../img/menu-homeownership-hub_bot_left.jpg);
+	width: 610rem;
+	height: 359rem;
+	object-fit: cover;
+	background-size: 610rem 359rem;
+}
+.menu-homeownership-hub_bot_right.fd-col.jc-center{
+	width: 610rem;
+	background-color: #F3FFF1;
+	padding: 72rem 30rem;
+	gap: 10rem;
+}
+.menu-homeownership-hub_bot_right_title.fc-green-p.fw-700.--dark-green{
+	font-size: 33.6rem;
+	padding-left: 15rem;
+	text-align: start;
+	margin-left: 30rem;
+	border-left:5rem solid #84BD00 ;
+	line-height: 35.2rem;
+}
+.menu-homeownership-hub_bot_right_date.fc-g1.mt-10.dp-flex{
+	width: 224.8rem;
+	height: 24rem;
+	background-color: #fff;
+	margin-left: 30rem;
+	letter-spacing: 1rem;
+}
+.menu-homeownership-hub_bot_right_content.mt-10.fc-bl2{
+	margin-left: 30rem;
+}
+
+/*end code by btung*/
