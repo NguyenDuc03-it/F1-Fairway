@@ -1,3 +1,69 @@
+/*start code by btung*/
+.m-newroom-1.fd-row.jc-center.pos-r{
+	width: 1920rem;
+	height: 593.41rem;
+	background-image: url("../img/m-newroom-1.fd-row.jc-center.pos-r.png");
+	overflow: hidden;
+	background-size: cover;
+}
+.m-newroom-1_container.fd-row{
+	width: 1181.83rem;
+	height: 492.41rem;
+}
+.m-newroom-1_container_left{
+	margin-right: 74rem;
+	margin-top: 109rem;
+}
+.m-newroom-1_container_left_title.fw-800.text-283E39{
+	font-size: 73.6rem;
+	line-height: 80rem;
+}
+.m-newroom-1_container_left_sub-title.fw-600.text-283E39{
+	line-height: 30.4rem;
+	margin-top: 3rem;
+	font-size: 28.8rem;
+}
+.m-newroom-1_container_left_content.fs-16.fw-400.text-283E39{
+	line-height: 24rem;
+	margin-top: 24.39rem;
+}
+
+.m-newroom-1_container_right_img{
+	width: 350rem;
+	height: 463.4rem;
+	object-fit: cover;
+}
+.m-newroom-1_container_tri-left.pos-a{
+	width: 192rem;
+	height: 452.03265380859375rem;
+	left: 0;
+	top: 169.65rem;
+}
+.m-newroom-1_container_tri-right.pos-a{
+	width: 268.79998779296875rem;
+	height: 632.845703125rem;
+	left: 1651rem;
+}
+.m-newroom-1_container_line-left.pos-a{
+	width: 162.23394775390625rem;
+	height: 131.9216766357422rem;
+	top: 459.03rem;
+	left: 17.58rem;
+}
+.m-newroom-1_container_line-right.pos-a{
+	width: 227.12753295898438rem;
+	height: 184.6903533935547rem;
+	top: 31.03rem;
+	right: 24.61rem;
+}
+.m-newroom-1_container_right_title.fs-11_2.mt-15.text-283E39.lh-24.fw-400{
+	width: 395rem;
+}
+.m-newroom-1_container_right_title_hightlight-green.fs-11_2.mt-15.lh-24.fw-400.td-u{
+	color: #0F6B4B;
+}
+
+/*end code by btung*/
 .m-newsroom-4{
     width: 1920rem; 
 }
