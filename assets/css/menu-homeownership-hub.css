@@ -40,6 +40,7 @@
     height:404rem;
     width: 710.33rem;
     margin-top: 24rem;
+    position: relative;
 }
 .m-homeownership-hub-2_contentLeft_video_videoImg{
     width: 696.88rem;
@@ -213,4 +214,15 @@
     width: 800rem;
     height: 354rem;
     left: 168rem;
+}
+.m-homeownership-hub-2_contentLeft_video_iconNew{
+    width: 54.97rem;
+    height: 34rem;
+    position: absolute;
+    width: 54.97rem
+28.3554px
+;
+    height: 34rem;
+    top: -12rem;
+    right: 0rem;
 }
