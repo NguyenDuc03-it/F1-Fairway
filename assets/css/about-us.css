@@ -1,4 +1,437 @@
-/* id4wndatt - about-us-3 */
+/* about-us-2 */
+
+.highight-text-green {
+  color: #00973a;
+}
+.borrower-reviews {
+  margin-top: 66rem;
+  width: 1920rem;
+  height: 771.39rem;
+  background: linear-gradient(
+          to bottom,
+          rgba(255, 255, 255, 1),
+          rgba(255, 255, 255, 0.8)
+  ),
+  url("assets/img/borrower-reviews.png");
+  background-repeat: repeat;
+  background-size: contain;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-medium {
+  margin-top: 60rem;
+  text-align: center;
+  width: 100%;
+  max-width: 768rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  font-size: 64rem;
+  line-height: 40rem;
+}
+
+.subtitle {
+  text-transform: uppercase;
+  letter-spacing: 3rem;
+  line-height: 15.4rem;
+}
+
+.testimonial-slider {
+  width: 1920rem;
+  height: 371rem;
+  gap: 6rem;
+  padding-top: 45rem;
+  padding-left: 6rem;
+  overflow: hidden;
+}
+
+.review-card {
+  width: 290rem;
+  height: 316rem;
+  background-image: url(img/image.png), linear-gradient(#fff, #f7f7f7);
+  border-radius: 12rem;
+  position: relative;
+  border-style: solid;
+  border-width: 1rem 1rem 3rem 1rem;
+  border-color: rgba(239, 237, 232, 0.9);
+  text-align: center;
+  padding-left: 25rem;
+  padding-right: 25rem;
+  flex: 0 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.review-circle {
+  position: absolute;
+  top: -34rem;
+  transform: translateX(-50%);
+  left: 50%;
+  border-radius: 80rem;
+  width: 72rem;
+  height: 72rem;
+  border-style: solid;
+  border-color: #0f6b4b;
+  border-width: 1rem;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.review-inner {
+  border-radius: 80rem;
+  width: 64rem;
+  height: 64rem;
+  border-style: solid;
+  border-color: #00973a;
+  border-width: 4rem;
+  background-image: radial-gradient(#fff, #f3fff1);
+  color: #0f6b4b;
+  font-size: 20.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stars {
+  margin-top: 60rem;
+  width: 120rem;
+  height: 19rem;
+}
+
+.date {
+  border-radius: 20rem;
+  width: 120rem;
+  height: 30rem;
+  border-style: solid;
+  border-color: #fff;
+  border-width: 2rem;
+  background-color: #f3fff1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-button-wrapper {
+  width: 124rem;
+  height: 50rem;
+  border-radius: 50rem;
+  border: 2rem solid #cccccc;
+  padding: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.back {
+  margin-right: 32rem;
+}
+
+.floating-btn-container {
+  width: 204.16rem;
+  height: 48rem;
+  border-radius: 200rem;
+  background-color: #0f6b4b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-paints {
+  margin-top: 53rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1215rem;
+  height: 441.89rem;
+  box-shadow: 5rem 5rem #fff, 7rem 7rem #00973a;
+  border-radius: 6rem;
+  border: 1px solid #ecebea;
+  padding: 50rem 31rem 39rem 36rem;
+}
+
+.card-paints-top {
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-badge {
+  width: 550rem;
+  height: 242.89rem;
+  margin-right: 34.5rem;
+}
+
+.title-badge {
+  width: 551.97rem;
+  border-top: 2rem solid #0f6b4b;
+  position: relative;
+}
+
+.p-badge-title {
+  position: absolute;
+  top: -22rem;
+  text-transform: uppercase;
+  letter-spacing: -1rem;
+}
+
+.p-badge-first {
+  margin-top: 31rem;
+}
+
+.card-paints-bot {
+  width: 1148rem;
+  border-top: 1rem solid rgba(0, 0, 0, 0.1);
+  justify-content: space-around;
+  padding-top: 33.59rem;
+  text-align: center;
+}
+
+.stat-item p {
+  text-transform: uppercase;
+  letter-spacing: 1.2rem;
+}
+/* about-us-1 */
+/* Code Huy */
+body{
+  flex-direction: column;
+}
+.about-us-1 {
+	width: 1920rem;
+	height: 1328rem;
+  position: relative;
+}
+
+.about-us-1_wwa {
+	background-image: url("../img/about-us-1_wwa.png");
+	overflow: hidden;
+	background-size: cover;
+	width: 1920rem;
+	height: 730rem;
+}
+
+.about-us-1_wwa_contentLeft {
+	padding-top: 76rem;
+	margin-right: 62.8rem;
+	width: 616rem;
+}
+
+.about-us-1_wwa_contentLeft_home {
+	width: 153.03rem;
+	height: 22rem;
+	border-radius: 20rem;
+	border: 1rem solid rgba(0, 0, 0, 0.10);
+	background: #FFF;
+	padding-left: 10rem;
+}
+
+.about-us-1_wwa_contentLeft_home_iconShap {
+	width: 17rem;
+	height: 18rem;
+	padding-right: 6rem;
+}
+
+.about-us-1_wwa_contentLeft_home_iconShap_icon {
+	width: 17rem;
+	height: 18rem;
+}
+
+.about-us-1_wwa_contentLeft_home_textHome {
+	color: #0F6B4B;
+	padding-right: 8rem;
+	border-right: 1rem dashed #84BD00;
+	margin-left: 6rem;
+}
+
+.about-us-1_wwa_contentLeft_home_textAbout {
+	color: #84BD00;
+	margin-left: 8rem;
+}
+
+.about-us-1_wwa_contentLeft_tittle {
+	color: #FFF;
+	font-size: 73.6rem;
+	margin-top: 24rem;
+	padding-left: 0rem;
+}
+
+.about-us-1_wwa_contentLeft_text3 {
+	margin-top: 43.88rem;
+}
+
+.about-us-1_wwa_contentLeft_text3_button {
+	border-radius: 200rem;
+	border: 2rem solid #84BD00;
+	background: #FFF;
+	margin-right: 86.09rem;
+	width: 298.89rem;
+	height: 52rem;
+	padding: 17rem 67.794rem 17rem 68.11rem;
+}
+
+.about-us-1_wwa_contentLeft_button_text {
+	width: 162.986rem;
+	height: 18rem;
+	color: #115740;
+}
+
+.about-us-1_wwa_contentLeft_text3_smallButton {
+	width: 155.04rem;
+	height: 24rem;
+	padding-top: 14rem;
+}
+
+.about-us-1_wwa_contentRight {
+	margin-top: 134rem;
+	width: 485.2rem;
+	height: 460.39rem;
+}
+
+.about-us-1_con2 {
+	width: 1280rem;
+	height: 250rem;
+	background-image: url("../img/about-us-1_con2.png");
+	background-size: cover;
+	margin-left: 320rem;
+	gap: 152rem;
+}
+
+.about-us-1_con2_box {
+	margin-top: -48rem;
+  padding-left: 54rem;
+}
+
+.about-us-1_con2_textL1 {
+	width: 707.3rem;
+}
+
+.about-us-1_con2_textL1_iconbighome {
+	width: 120.3rem;
+	height: 111.16rem;
+	margin-right: 18rem;
+	border-right: 2rem solid #FFF;
+}
+
+.about-us-1_con2_textL1_text {
+	width: 569rem;
+	height: 96rem;
+	font-size: 48rem;
+}
+
+.about-us-1_con2_textL2 {
+	width: 790rem;
+	height: 21rem;
+	color: #FFF;
+	margin-top: 10rem;
+}
+
+.about-us-1_con2_textL3 {
+	width: 242rem;
+	height: 320rem;
+}
+
+.about-us-1_con3 {
+	margin-top: 66rem;
+	width: 1280rem;
+	height: 191.91rem;
+	padding-left: 320rem;
+
+}
+
+.about-us-1_con3_head {
+	width: 1220.35rem;
+	padding-left: 30rem;
+	margin-bottom: 23rem;
+
+}
+
+.about-us-1_con3_iconCham {
+	padding-top: 0rem;
+	width: 16rem;
+	height: 16rem;
+	margin-right: 8rem;
+}
+
+.about-us-1_con3_text {
+	padding-top: 0.3rem;
+	width: 193.58rem;
+	height: 14rem;
+	font-size: 11rem;
+	font-weight: 700;
+	letter-spacing: 3rem;
+	text-transform: uppercase;
+}
+
+.about-us-1_con3_line {
+	width: 1002.77rem;
+	height: 1rem;
+	background: rgba(0, 0, 0, 0.10);
+	padding-right: 30rem;
+}
+
+.about-us-1_con3_logo {
+	padding-left: 167rem;
+}
+
+.about-us-1_con3_logo1 {
+	width: 91rem;
+	height: 150rem;
+	margin-right: 101rem;
+}
+
+.about-us-1_con3_logo2 {
+	width: 120rem;
+	height: 150rem;
+	margin-right: 101.25rem;
+}
+
+.about-us-1_con3_logo3 {
+	width: 120rem;
+	height: 66.66rem;
+	margin-right: 100.75rem;
+	margin-top: 42rem;
+}
+
+.about-us-1_con3_logo4 {
+	width: 91rem;
+	height: 150rem;
+	margin-right: 101rem;
+}
+
+.about-us-1_con3_logo5 {
+	width: 120rem;
+	height: 107rem;
+	margin-top: 22rem;
+}
+
+.about-us-1_con4 {
+	right: 14rem;
+  top: 1043rem;
+  width: 50rem;
+  height: 50rem;
+  border-radius: 25rem;
+  border: 1rem solid #EBEBEB;
+  background: #FFF;
+  box-shadow: 0rem 0rem 10rem -4rem rgba(0, 0, 0, 0.15);
+  position: absolute;
+}
+
+.about-us-1_con4_iconUp {
+	width: 26rem;
+	height: 20rem;
+	padding-top: 8rem;
+
+}
+
+.about-us-1_con4_text {
+	padding-bottom: 8rem;
+}
+/* end code Huy */
+
+/* about-us-3 */
 .about-us-3_video {
   width: 1220rem;
   height: 686.56rem;
@@ -29,15 +462,22 @@
   border-radius: 160em;
   background-color: #0f6b4b;
 }
+
+@media only screen and (max-width: 480px) {
+  .about-us-3_content-btn {
+    display: block;
+  }
+}
 /* end - about-us-3 */
 
 
-/* about-us-4 */
+/* tuyenvp11 about-us-4 */
 .about-us-4 {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 124rem;
 }
 
 .about-us-4-content-top {
