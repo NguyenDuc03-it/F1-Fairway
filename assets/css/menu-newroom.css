@@ -95,20 +95,20 @@
     gap: 24rem 10rem;
     width: 100%;
     max-width: 1220rem;
-    height: 455rem;
     grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 32.8rem;
 }
 .newsroom-4_press-release-button{
     width: 227.66rem;       
     height: 48rem;             
-    background-color: rgba(17, 87, 64, 1); 
+    background-color: rgba(17, 87, 64, 1);
     border-radius: 200rem;  
     border: none;           
     color: white;             
     font-size: 13rem;       
     cursor: pointer;        
     transition: all 0.3s ease;
-    margin-top: 80rem;
+    margin-top: 50rem;
 }
 .newsroom-4_recent-video-content-left{
     width: 575rem;
@@ -185,7 +185,7 @@ margin-bottom: 4rem;
     grid-template-rows: auto;
     grid-template-columns: .25fr 1fr;
     align-items: center;
-    padding: 6rem 6rem 6rem 6rem;
+    padding: 6rem 6rem 6rem 20rem;
     font-size: 12rem;
     line-height: 16rem;
     text-decoration: underline;border-style: solid;
@@ -194,7 +194,6 @@ margin-bottom: 4rem;
     background-color: #fff;
     border-radius: 6rem;
     position: relative;
-    padding: 5rem;
 }
 .newsroom-4_press-releases-detail{
     letter-spacing: 1rem;
@@ -207,7 +206,7 @@ margin-bottom: 4rem;
     line-height: 9rem;
     display: flex;
     position: absolute;
-    bottom: 0rem;
+    bottom: -1rem;
     right: -1rem;
     background-color: rgba(250, 248, 244, 1);
    border: 1rem solid rgba(243, 255, 241, 1);
@@ -243,7 +242,6 @@ margin-bottom: 4rem;
     margin-left: 16rem;
 }
 .newsroom-4_press-releases-block{
-    margin-top: 30rem;
     border: 0rem;
 }
 
