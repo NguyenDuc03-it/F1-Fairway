@@ -251,3 +251,14 @@ margin-top: 30rem;
 .link-text.fs-13 a{
     color: white;
 }
+.locations-2-box{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 1920rem;
+}
+.btn-top-return{
+    position: absolute;
+    top:246rem ;
+    right: 14rem;
+}
