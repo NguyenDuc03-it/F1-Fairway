@@ -74,6 +74,7 @@
     gap: 28rem;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-top: 39rem;
 }
 .newsroom-4_feature-banner{
     width: 1220rem;
@@ -95,20 +96,21 @@
     gap: 24rem 10rem;
     width: 100%;
     max-width: 1220rem;
-    height: 455rem;
     grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 32.8rem;
 }
 .newsroom-4_press-release-button{
     width: 227.66rem;       
     height: 48rem;             
-    background-color: rgba(17, 87, 64, 1); 
+    background-color: rgba(17, 87, 64, 1);
     border-radius: 200rem;  
     border: none;           
     color: white;             
     font-size: 13rem;       
     cursor: pointer;        
     transition: all 0.3s ease;
-    margin-top: 80rem;
+    margin-top: 50rem;
+    margin-bottom: 76rem;
 }
 .newsroom-4_recent-video-content-left{
     width: 575rem;
@@ -185,7 +187,7 @@ margin-bottom: 4rem;
     grid-template-rows: auto;
     grid-template-columns: .25fr 1fr;
     align-items: center;
-    padding: 6rem 6rem 6rem 6rem;
+    padding: 6rem 6rem 6rem 20rem;
     font-size: 12rem;
     line-height: 16rem;
     text-decoration: underline;border-style: solid;
@@ -194,7 +196,6 @@ margin-bottom: 4rem;
     background-color: #fff;
     border-radius: 6rem;
     position: relative;
-    padding: 5rem;
 }
 .newsroom-4_press-releases-detail{
     letter-spacing: 1rem;
@@ -207,7 +208,7 @@ margin-bottom: 4rem;
     line-height: 9rem;
     display: flex;
     position: absolute;
-    bottom: 0rem;
+    bottom: -1rem;
     right: -1rem;
     background-color: rgba(250, 248, 244, 1);
    border: 1rem solid rgba(243, 255, 241, 1);
@@ -221,11 +222,20 @@ margin-bottom: 4rem;
     cursor: pointer;
 }
 .newsroom-4_press-releases-image{
-    background-image: url("../img/releases-image1.png");
+    
     background-size: cover;
     height: 80rem;
     width: 100rem;
     margin-bottom: 5rem;
+}
+#newroom-4-1{
+    background-image: url("../img/releases-image1.png");
+}
+#newroom-4-2{
+    background-image: url("../img/releases-image2.png")
+}
+#newroom-4-3{
+    background-image: url("../img/releases-image3.png")
 }
 .d-grid{
     display: grid;
@@ -234,6 +244,432 @@ margin-bottom: 4rem;
     margin-left: 16rem;
 }
 .newsroom-4_press-releases-block{
-    margin-top: 30rem;
     border: 0rem;
 }
+@media (max-width: 768px) {
+ .newsroom-4_recent-video-content{
+    flex-direction: column-reverse;
+    height: auto;
+    padding: 40rem;
+    gap: 50rem;
+ }
+ .newsroom-4_press-release-wrapper{
+       grid-template-columns: 1fr 1fr ;
+ }
+}
+@media (max-width: 480px) {
+ .newsroom-4_press-release-wrapper{
+       grid-template-columns: 1fr ;
+ }
+}
+
+/* Start code Nguyen Trung Duc */
+.m-newroom-3 {
+    width: 1920rem;
+    height: 1574rem;
+    display: flex;
+    gap: 30rem;
+    padding-top: 45.02rem;
+    margin: 0 auto;
+    background-image: url(../img/m-newroom-3-bg.png);
+    overflow: hidden;
+    background-size: 800rem 354.125rem;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.m-newroom-3_video {
+    width: 769rem;
+    height: 751rem;
+    padding: 8rem 36rem 36rem 36rem;
+}
+
+.m-newroom-3_video_header {
+    display: flex;
+    align-items: center;
+}
+
+.m-newroom-3_header_icon {
+    width: 30rem;
+    height: 24rem;
+}
+
+
+
+.m-newroom-3_header_content_title {
+    font-weight: 700;
+    letter-spacing: 3rem;
+    color: #283e39;
+}
+
+.m-newroom-3_video_header_separator {
+    height: 1rem;
+    background-color: #e4eee7;
+    flex-grow: 1;
+}
+
+.m-newroom-3_video_player {
+    position: relative;
+    width: 100%;
+    height: 392rem;
+    background-color: #000;
+    border-radius: 8rem;
+}
+
+.m-newroom-3_video_player_overplay_new {
+    position: absolute;
+    top: -7rem;
+    right: -7rem;
+    font-size: 12rem;
+    color: #F6B436;
+    letter-spacing: 1.2rem;
+    font-weight: 600;
+}
+
+.m-newroom-3_video_info {
+    display: flex;
+    flex-direction: column;
+    gap: 10rem;
+    padding: 25rem 30rem;
+}
+.m-newroom-3_video_info_title_h2 {
+    border-left: 5rem solid #84bd00;
+    padding-left: 15rem;
+    color: #115740;
+    font-size: 28.8rem;
+    font-weight: 600;
+    line-height: 30.4rem;
+}
+
+.m-newroom-3_video_info_description {
+    line-height: 22rem;
+    color: #3F4444;
+}
+
+.m-newroom-3_video_info_watch-more {
+    width: 100%;
+    height: 48rem;
+    background-color: #0f6b4b;
+    color: white;
+    border: none;
+    border-radius: 200rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.m-newroom-3_article {
+    width: 385rem;
+    height: 1538rem;
+    padding: 8rem 0 16rem 0;
+}
+
+.m-newroom-3_article_header {
+    display: flex;
+    align-items: center;
+}
+
+.m-newroom-3_article_header_content_icon {
+    width: 30rem;
+    height: 24rem;
+}
+
+.m-newroom-3_article_header_content_title {
+    font-weight: 700;
+    letter-spacing: 3rem;
+    color: #283e39;
+}
+
+.m-newroom-3_article_header_separator {
+    height: 1rem;
+    background-color: #e4eee7;
+    flex-grow: 1;
+}
+
+.m-newroom-3_article_cards {
+    display: flex;
+    flex-direction: column;
+    gap: 16rem;
+}
+
+.m-newroom-3_article_card {
+    height: 498rem;
+    background-color: rgba(228, 238, 231, 0.3);
+    border-radius: 5rem;
+    padding-top: 15rem;
+}
+
+.m-newroom-3_article_card_img {
+    width: 384.67rem;
+    height: 210rem;
+    object-fit: cover;
+    border-radius: 8rem 8rem 0 0;
+}
+
+.m-newroom-3_article_card_content {
+    width: 349rem;
+    height: 231rem;
+    margin: 0 18rem 18rem 18rem;
+}
+
+.m-newroom-3_article_card_content_h3 {
+    border-left: 5rem solid #84bd00;
+    margin: 40rem 18rem 23rem 18rem;
+    color: #115740;
+    font-size: 22.4rem;
+    line-height: 24rem;
+    padding-left: 15rem;
+}
+
+.m-newroom-3_article_card_content_p {
+    line-height: 22rem;
+    margin: 0 18rem 8rem 18rem;
+    color: #3F4444;
+}
+
+.m-newroom-3_article_card_content_publish {
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 5rem;
+    background-color: #FAF8F4;
+    border: 1rem solid #F3FFF1;
+    width: fit-content;
+    justify-self: flex-end;
+}
+
+.m-newroom-3_article_card_content_publish_span {
+
+    padding: 9rem 15.68rem 9rem 11rem;
+    font-size: 9rem;
+    font-weight: 600;
+    color: #115740;
+    letter-spacing: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .m-newroom-3 {
+        flex-direction: column;
+        height: fit-content;
+        align-items: center;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .m-newroom-3 {
+        padding: 16rem;
+    }
+
+    .m-newroom-3_video_player {
+        height: 300rem;
+    }
+
+    .m-newroom-3_video_info_title_h2 {
+        font-size: 24rem;
+    }
+}
+/* End code Nguyen Trung Duc */
+
+/* vinh */
+.m-newsrooms-2{
+width: 1920rem;
+height: fit-content;
+padding-left: 320rem;
+margin-top: 149.52rem;
+
+}
+.m-newsrooms-2-up{
+    gap: 16rem;
+margin-left: 30rem;
+}
+.m-newsrooms-2-media{
+    margin-top: 50rem;
+margin-left: 30rem;
+}
+.m-newrooms-2-in4-1{
+    margin-left:12rem;
+margin-top: 48.39rem;
+gap: 22rem;
+}
+.m-newrooms-2-in4-2{
+    margin-left:12rem;
+margin-top: 20rem;
+gap: 22rem;
+}
+.m-newrooms-2-button-mention{
+    margin-left: 557.53rem;
+width: 227rem;
+height: 50rem;
+margin-top: 30rem;
+border-radius: 7rem;
+background: rgba(15, 107, 75, 1);
+padding-left: 31rem;
+line-height: 20rem;
+color: rgba(225, 225, 225, 1);
+gap: 4rem;
+}
+.m-newrooms-2-banner{
+    width: 1280rem;
+height: 250rem;
+background-image: url(/assets/img/m-newrooms-2-banner.png);
+padding-top: 23rem;
+padding-left: 48rem;
+margin-top: 24.84rem;
+background-size: cover;
+}
+.newroom-2-media-line{
+    width: 1073.5rem;
+height: 1rem;
+background-color: rgba(0, 0, 0, 0.1);
+}
+.newroom-2-title{
+    width: 585.2rem;
+height: 43.19rem;
+border-left: 5rem solid rgba(132, 189, 0, 1);
+font-weight: 700;
+color: rgba(40, 62, 57, 1);
+line-height: 43.2rem;
+padding-left: 15rem;
+}
+.newroom-2-media-text{
+    font-size: 11rem;
+font-weight: 700;
+line-height: 15.4rem;
+letter-spacing: 3rem;
+}
+.m-newrooms-2-detail-1{
+    width: 398rem;
+height: 332rem;
+ position: relative;
+}
+.m-newrooms-2-detail{
+    width: 398rem;
+height: 332rem;
+position: relative;
+}
+.m-newrooms-2-banner-title{
+gap: 16rem;
+
+}
+.m-newrooms-2-link{
+    display: flex;
+align-self: flex-end;
+width: 655.94rem;
+height: 15rem;
+margin-bottom: 17rem;
+font-size: 12.8rem;
+line-height: 24rem;
+color: white;
+}
+.m-newrooms-2-banner-contnet {
+    width: 790rem;
+height: 45rem;
+line-height: 24rem;
+margin: 12.86rem 0rem;
+color: white;
+}
+.m-newrooms-2-award{
+    width: 242rem;
+height: 320rem;
+top: -35rem;
+right: 47rem;
+}
+.m-newrooms-2-layer-1{
+    width: 370rem;
+height: 299rem;
+right: 0rem;
+bottom: 0rem;
+border: 2rem solid rgba(132,189,0,1);
+border-radius: 10rem;
+}
+.m-newrooms-2-layer-2{
+    width: 370rem;
+height: 299rem;
+right: 8rem;
+bottom: 8rem;
+border: 2rem solid rgba(17,87,64,1);
+border-radius: 8rem;
+background-color: white;
+}
+.m-newrooms-2-layer-3{
+    width: 143.16rem;
+height: 24rem;
+top: 3rem;
+margin-left: 60rem;
+padding-left: 25rem;
+line-height: 24rem;
+color: rgba(255, 255, 255, 1);
+background-color: rgba(17, 87, 64, 1);
+border-top-right-radius: 5rem;
+}
+.fs-48{
+    font-size: 48rem;
+}
+.m-newroooms-2-layer-4{
+    width: 149rem;
+height: 67.3rem;
+bottom: 5rem;
+right: 5.41rem;
+}
+.m-newroooms-2-layer-5{
+width: 75rem;
+height: 75rem;
+/* left: -28rem;
+top: -33rem; */
+}
+.m-newroom-2-logo-banner{
+    margin-top: 5rem;
+width: 122.3rem;
+height: 111.16rem;
+}
+.m-newroom-2-logo-title{
+    width: 446.48rem;
+height: 106rem;
+color: white;
+}
+.m-newrooms-2-layer-title{
+    width: 290rem;
+margin-top: 19rem;
+margin-left: 65rem;
+border-left: 5rem solid rgba(132, 189, 0, 1);
+padding-left: 20rem;
+line-height: 18rem;
+text-transform: uppercase;
+color: rgba(17, 87, 64, 1);
+}
+.m-newrooms-2-layer-content{
+    width: 334.14rem;
+margin-left: 15rem;
+line-height: 18rem;
+color: rgba(0, 79, 91, 1);
+margin-top: 15rem;
+}
+.m-newrooms-2-layer-day{
+    width: 270rem;
+height: 25rem;
+margin-left: 85rem;
+margin-top: 5rem;
+border-top: 1rem solid rgba(0, 0, 0, 0.1);
+line-height: 24rem;
+color: rgba(110, 110, 110, 1)
+}
+.m-newrooms-2-button{
+    width: 150rem;
+height: 24rem;
+border: 1rem solid rgba(223, 223, 223, 1);
+border-radius: 5rem;
+padding-left: 16rem;
+color: rgba(15,107,75,1);
+    margin-top: 20rem;
+    margin-left: 15rem;
+}
+.m-newrooms-2-3que{
+    width: 55rem;
+height: 55rem;
+align-self: flex-end;
+position: absolute;
+    bottom: 0rem;
+}
+/* vinh-end */
