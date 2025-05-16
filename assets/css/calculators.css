@@ -39,6 +39,7 @@ height: auto;
 }
 
 .product-card {
+  background-size: cover;
     flex-direction: column;
     display: flex;
     align-items: center;
