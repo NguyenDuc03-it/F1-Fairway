@@ -761,6 +761,9 @@ body {
     width: 358.77rem;
 }
 
+.mr-5{
+  margin-right: 5rem;
+}
 @media only screen and (max-width: 768px) {
     .hidden-tb {
         display: none;
@@ -772,6 +775,11 @@ body {
 
     .ai-tl-center {
         align-items: center !important;
+    }
+
+    tb-fd-cl{
+        display: flex;
+        flex-direction: column;
     }
 }
 
@@ -807,5 +815,10 @@ body {
     .lh-mb-18 {
         line-height: 18rem;
     }
+
+  mb-fd-cl{
+    display: flex;
+    flex-direction: column;
+  }
 
 }
