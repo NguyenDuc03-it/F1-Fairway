@@ -8,77 +8,289 @@
 }
 
 .m-credit-resources-2_container {
-  width: 1220rem;
-  height: 624rem;
+    width: 1220rem;
+    height: 624rem;
 }
 
-.m-credit-resources-2 :last-child{
+.m-credit-resources-2 :last-child {
     top: 447rem;
     right: 14rem;
 }
 
 .m-credit-resources-2_resources {
-  width: 732rem;
-  height: 595.73rem;
-  align-items: center;
-  border: 2rem solid #e7e7e7;
-  border-top-left-radius: 8rem;
-  border-bottom-left-radius: 75rem;
-  background: linear-gradient(270deg, #dddddd 0%, #f3f3f3 100%);
-  box-shadow: 1rem 1rem 3rem 0rem rgba(0, 0, 0, 0.47);
-  padding-top: 32rem;
+    width: 732rem;
+    height: 595.73rem;
+    align-items: center;
+    border: 2rem solid #e7e7e7;
+    border-top-left-radius: 8rem;
+    border-bottom-left-radius: 75rem;
+    background: linear-gradient(270deg, #dddddd 0%, #f3f3f3 100%);
+    box-shadow: 1rem 1rem 3rem 0rem rgba(0, 0, 0, 0.47);
+    padding-top: 32rem;
 }
 
 .m-credit-resources-2_links {
-  width: 488rem;
-  height: 624rem;
-  border-top-right-radius: 65rem;
-  border-bottom-right-radius: 65rem;
-  border-bottom-left-radius: 10rem;
-  background: linear-gradient(
-      325.66deg,
-      rgba(0, 0, 0, 0.45) 0%,
-      rgba(255, 255, 255, 0.17) 100%
-    ),
-    url("/assets/img/m-credit-resource-2_link-fill.jpg");
-  box-shadow: 1rem 1rem 3rem 0rem #000000cf;
-  padding: 27rem 0 0 50rem;
-  gap: 19.39rem;
+    width: 488rem;
+    height: 624rem;
+    border-top-right-radius: 65rem;
+    border-bottom-right-radius: 65rem;
+    border-bottom-left-radius: 10rem;
+    background: linear-gradient(325.66deg,
+            rgba(0, 0, 0, 0.45) 0%,
+            rgba(255, 255, 255, 0.17) 100%),
+        url("/assets/img/m-credit-resource-2_link-fill.jpg");
+    box-shadow: 1rem 1rem 3rem 0rem #000000cf;
+    padding: 27rem 0 0 50rem;
+    gap: 19.39rem;
 }
 
 .resources_video {
-  width: 628rem;
-  height: 352.73rem;
+    width: 628rem;
+    height: 352.73rem;
 }
 
 .resources_desc {
-  margin-top: 30rem;
+    margin-top: 30rem;
 }
 
-.resources_desc :first-child{
+.resources_desc :first-child {
     margin-right: 51.52rem;
 }
 
 .desc {
-  width: 294rem;
+    width: 294rem;
 }
 
-.desc :nth-child(2){
+.desc :nth-child(2) {
     margin-top: 11rem;
 }
 
-.desc :nth-child(3){
+.desc :nth-child(3) {
     margin-top: 6rem;
 }
 
 .links-title {
-  font-size: 28.8rem;
-  line-height: 30.4rem;
+    font-size: 28.8rem;
+    line-height: 30.4rem;
 }
 
 .helpful-links {
-  gap: 3rem;
+    gap: 3rem;
 }
+
+/* Dat end  */
+/* Start Thanh Tung */
+.m-credit-resource-1 {
+    width: 1920rem;
+    height: 582rem;
+    padding-top: 50rem;
+    background-image: url("/assets/img/m-credit-resource-1.png");
+}
+
+.m-credit-resource-1_container_video-frame_action-bar_action-bar-control_time-notice p {
+    width: 25.229999542236328rem;
+    height: 11rem;
+    font-family: Inter;
+    font-size: 10.38rem;
+}
+
+.m-credit-resource-1_container_video-frame_action-bar_action-bar-control_time-notice {
+    width: 33.029998779296875rem;
+    height: 23rem;
+    top: -14rem;
+    left: -5.01rem;
+}
+
+.m-credit-resource-1_container_video-frame_action-bar_action-bar-control_time-notice div:last-child {
+    width: 6rem;
+    height: 3rem;
+    margin-left: 13.51rem;
+    border-top-width: 3rem;
+    border-right-width: 3rem;
+    border-left-width: 3rem;
+    background: #FFFFFF;
+}
+
+.m-credit-resource-1_container_video-frame_action-bar_action-bar-control_time-line div {
+    width: 316.8800048828125rem;
+    height: 4rem;
+    border-radius: 100px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.m-credit-resource-1_container_video-frame_action-bar_action-bar-control_time-notice div:first-child {
+    width: 33.029998779296875rem;
+    height: 20rem;
+    border-radius: 4rem;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+.m-credit-resource-1_container_video-frame_action-bar_action-bar-control_icon-volumn {
+    width: 20rem;
+    height: 20rem;
+    margin-right: 4rem;
+}
+
+.m-credit-resource-1_container_video-frame_action-bar_action-bar-control_time-line {
+    width: 316.8800048828125rem;
+    height: 32rem;
+    margin-left: 12rem;
+    margin-right: 8rem;
+}
+
+.m-credit-resource-1_container_video-frame_action-bar_play-button {
+    width: 56rem;
+    height: 32rem;
+    border-radius: 4rem;
+    background: rgba(0, 0, 0, 0.9);
+    margin-right: 8rem;
+}
+
+.m-credit-resource-1_container_video-frame_action-bar_action-bar-control {
+    width: 504.8800048828125rem;
+    height: 32rem;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.m-credit-resource-1_container_main-content_nav-credit-resource :first-child {
+    width: 17rem;
+    height: 18rem;
+    border-radius: 30px;
+    background: rgba(243, 255, 241, 1);
+    margin-right: 6rem;
+}
+
+.m-credit-resource-1_container_main-content_nav-credit-resource p:nth-child(2) {
+    width: 41rem;
+    height: 16rem;
+    margin-right: 8rem;
+    border-right: 1px solid rgba(132, 189, 0, 1);
+    margin-top: 1rem;
+    padding-right: 8rem;
+}
+
+.m-credit-resource-1_container_main-content_nav-credit-resource p:nth-child(3) {
+    width: 106rem;
+    height: 16rem;
+    text-decoration-style: solid;
+    margin-top: 1rem;
+    color: #84BD00;
+}
+
+.m-credit-resource-1_container_video-frame_video {
+    width: 584.8800048828125rem;
+    height: 329rem;
+}
+
+.m-credit-resource-1_container_video-frame_action-bar {
+    width: 568.8800048828125rem;
+    height: 32rem;
+    top: 289rem;
+    left: 8rem;
+}
+
+.m-credit-resource-1_container_video-frame {
+    width: 585rem;
+    height: 329.20001220703125rem;
+    border-radius: 12rem;
+    margin-top: 68rem;
+}
+
+.m-credit-resource-1_container_main-content_desc {
+    width: 581rem;
+    height: 144rem;
+    margin-top: 40rem;
+}
+
+.m-credit-resource-1_container_main-content_title {
+    width: 585rem;
+    height: 240rem;
+    font-size: 74rem;
+    line-height: 80rem;
+    padding-left: 15rem;
+    margin-top: 20rem;
+}
+
+.m-credit-resource-1_container_main-content_nav-credit-resource {
+    width: 204rem;
+    height: 22rem;
+    border-radius: 20rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding-left: 10rem;
+    padding-top: 2rem;
+    background: #FFFFFF;
+}
+
+.m-credit-resource-1_container_main-content {
+    width: 585rem;
+    height: 466rem;
+    margin-right: 50rem;
+}
+
+.m-credit-resource-1_container {
+    width: 1220rem;
+    height: 466rem;
+}
+
+@media(max-width:768px) {
+    .m-credit-resource-1 {
+        width: 768rem;
+    }
+
+    .m-credit-resource-1_container {
+        width: 620rem;
+    }
+}
+
+@media(max-width:480px) {
+    .m-credit-resource-1 {
+        width: 480rem;
+    }
+
+    .m-credit-resource-1_container_video-frame_action-bar_action-bar-control_time-line div {
+        width: 116.8800048828125rem;
+    }
+
+    .m-credit-resource-1_container_video-frame_action-bar_action-bar-control {
+        width: 304.8800048828125rem;
+    }
+
+    .m-credit-resource-1_container_video-frame_video {
+        width: 384.8800048828125rem;
+    }
+
+    .m-credit-resource-1_container_video-frame_action-bar {
+        width: 364.8800048828125rem;
+    }
+
+    .m-credit-resource-1_container_video-frame {
+        width: 381rem;
+
+    }
+
+    .m-credit-resource-1_container_main-content {
+        width: 385rem;
+        margin-right: 25rem;
+    }
+
+    .m-credit-resource-1_container {
+        width: 420rem;
+    }
+
+    .m-credit-resource-1_container_main-content_title {
+        width: 385rem;
+    }
+
+    .m-credit-resource-1_container_main-content_desc {
+        width: 381rem;
+    }
+}
+
+/* End Thanh Tung */
 
 /* Code Huy */
 .credit-resource-3.dp-flex.fd-col {
@@ -307,14 +519,3 @@
     flex: start;
 }
 
-@media screen and (max-width: 768px){
-    .m-credit-resources-4_content_sidebar{
-        width: 100%;
-        border-right: none;
-        border-bottom: 1rem solid #dbdbdb;
-    }
-    .m-credit-resources-4_content_main-container{
-        display: grid;
-        grid-template-columns: 1fr;
-    }
-}
