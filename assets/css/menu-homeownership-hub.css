@@ -11,7 +11,7 @@
 .m-homeownership-hub-2_contentLeft{
     width:710.33rem;
     height:729.02rem;
-    margin-right:66rem;
+    margin-right:51rem;
     margin-top:36.44rem;
     margin-left:36rem;
 }
@@ -93,9 +93,9 @@
     height: 1866rem;
     align-items: flex-start;
     margin-top: 36.44rem;
+    margin-right: 36rem;
 }
 .m-homeownership-hub-2_contentRight_recentArticles.fd-row{
-    padding-top:8rem;
     width:385rem;
     height:28rem;
 
@@ -131,6 +131,7 @@
     height: 210rem;
     flex-shrink: 0;
     justify-content: flex-start;
+    border-radius: 15rem 15rem 0 0;
 }
 .m-homeownership-hub-2_contentRight_content_tittle.dp-flex.ai-center.fd-row{
     width: 325.67rem;
@@ -176,6 +177,7 @@
     height: 210rem;
     flex-shrink: 0;
     justify-content: flex-start;
+    border-radius: 15rem 15rem 0 0;
 }
 .m-homeownership-hub-2_contentRight_content2_tittle.dp-flex.ai-center.fd-row{
     width: 328.67rem;
@@ -212,8 +214,8 @@
 }
 .m-homeownership-hub-2_house-img{
     position: absolute;
-    bottom: 46.08rem;
-    width: 800rem;
+    bottom: 58.08rem;
+    width: 801rem;
     height: 354rem;
     left: 168rem;
 }
@@ -308,12 +310,14 @@
 	border-left:5rem solid #84BD00 ;
 	line-height: 35.2rem;
 }
-.menu-homeownership-hub_bot_right_date.fc-g1.mt-10.dp-flex{
+.menu-homeownership-hub_bot_right_date.fc-g1.mt-10.dp-flex.tt-u{
 	width: 224.8rem;
 	height: 24rem;
 	background-color: #fff;
 	margin-left: 30rem;
 	letter-spacing: 1rem;
+    border-radius: 5rem;
+    padding: 6rem 14.614rem 6rem 10rem;
 }
 .menu-homeownership-hub_bot_right_content.mt-10.fc-bl2{
 	margin-left: 30rem;
