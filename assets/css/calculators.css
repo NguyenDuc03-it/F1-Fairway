@@ -43,7 +43,7 @@ height: auto;
     display: flex;
     align-items: center;
     background-image: url("/assets/img/product-card.png");
-   
+    background-size: cover;
 }
 .list-product-card d-flex{
 margin-top: 70rem;
