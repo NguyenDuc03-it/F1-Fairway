@@ -308,12 +308,14 @@
 	border-left:5rem solid #84BD00 ;
 	line-height: 35.2rem;
 }
-.menu-homeownership-hub_bot_right_date.fc-g1.mt-10.dp-flex{
+.menu-homeownership-hub_bot_right_date.fc-g1.mt-10.dp-flex.tt-u{
 	width: 224.8rem;
 	height: 24rem;
 	background-color: #fff;
 	margin-left: 30rem;
 	letter-spacing: 1rem;
+    border-radius: 5rem;
+    padding: 6rem 14.614rem 6rem 10rem;
 }
 .menu-homeownership-hub_bot_right_content.mt-10.fc-bl2{
 	margin-left: 30rem;
