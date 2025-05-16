@@ -32,12 +32,13 @@
 body {
     width: 100vw;
     display: flex;
-  flex-direction: column;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.fs-11{
-	font-size: 11rem;
+
+.fs-11 {
+    font-size: 11rem;
 }
 
 .fs-10 {
@@ -71,8 +72,9 @@ body {
 .mt-11_61 {
     margin-top: 11.61rem;
 }
-.d-flex{
-	display: flex;
+
+.d-flex {
+    display: flex;
 }
 
 .fd-row {
@@ -134,38 +136,39 @@ body {
 }
 
 .type-details {
-	border: 1px solid #e2e2e2;
-	background: #f8f8f8;
-	background-image: url("");
-	width: 368rem;
-	height: 605.78rem;
-	border-radius: 12rem;
-	padding: 31rem 31rem 0 31rem;
+    border: 1px solid #e2e2e2;
+    background: #f8f8f8;
+    background-image: url("");
+    width: 368rem;
+    height: 605.78rem;
+    border-radius: 12rem;
+    padding: 31rem 31rem 0 31rem;
 }
 
 .fc-g1 {
-	color: #0f6b4b;
+    color: #0f6b4b;
 }
+
 .type-details-h605 {
-  border: 1rem solid #e2e2e2;
-  background: #f8f8f8;
-  background-image: url("/assets/img/loan-products-2_type-details.png");
-  background-size: cover;
-  width: 368rem;
-  height: 605.78rem;
-  border-radius: 12rem;
-  padding: 31rem 31rem 0 31rem;
+    border: 1rem solid #e2e2e2;
+    background: #f8f8f8;
+    background-image: url("/assets/img/loan-products-2_type-details.png");
+    background-size: cover;
+    width: 368rem;
+    height: 605.78rem;
+    border-radius: 12rem;
+    padding: 31rem 31rem 0 31rem;
 }
 
 .type-details-h822 {
-  border: 1rem solid #e2e2e2;
-  background: #f8f8f8;
-  background-image: url("/assets/img/loan-product-2_type-details-spe.png");
-  background-size: cover;
-  width: 368rem;
-  height: 822.780029296875rem;
-  border-radius: 12rem;
-  padding: 31rem 31rem 0 31rem;
+    border: 1rem solid #e2e2e2;
+    background: #f8f8f8;
+    background-image: url("/assets/img/loan-product-2_type-details-spe.png");
+    background-size: cover;
+    width: 368rem;
+    height: 822.780029296875rem;
+    border-radius: 12rem;
+    padding: 31rem 31rem 0 31rem;
 }
 
 .fc-g1 {
@@ -215,8 +218,9 @@ body {
 .pr-15 {
     padding-right: 15rem;
 }
-.fs-11_2{
-  font-size: 11.2rem;
+
+.fs-11_2 {
+    font-size: 11.2rem;
 }
 
 .fs-12 {
@@ -290,17 +294,18 @@ body {
 .fw-700 {
     font-weight: 700;
 }
+
 .swiper-button {
-	width: 42rem;
-	height: 42rem;
+    width: 42rem;
+    height: 42rem;
 }
 
 
 .details_title {
-	border-left: 5px solid #84bd00;
-	font-size: 28.8rem;
-	line-height: 30.4rem;
-  padding-left: 15rem;
+    border-left: 5px solid #84bd00;
+    font-size: 28.8rem;
+    line-height: 30.4rem;
+    padding-left: 15rem;
 
 }
 
@@ -309,7 +314,7 @@ body {
 }
 
 .pl-10 {
-  padding-left: 10rem;
+    padding-left: 10rem;
 }
 
 .tt-u {
@@ -321,11 +326,13 @@ body {
 }
 
 .bor-5 {
-	border-left: 5rem solid #84bd00;
+    border-left: 5rem solid #84bd00;
 }
-.mt-38{
-	margin-top:38rem
+
+.mt-38 {
+    margin-top: 38rem
 }
+
 .mt-24 {
     margin-top: 24rem;
 }
@@ -334,8 +341,8 @@ body {
     color: #fff;
 }
 
-.ml-18{
-  margin-left: 18rem;
+.ml-18 {
+    margin-left: 18rem;
 }
 
 .text-283E39 {
@@ -343,9 +350,9 @@ body {
 }
 
 .ic-link {
-  width: 10rem;
-  height: 24rem;
-  margin-right: 11rem;
+    width: 10rem;
+    height: 24rem;
+    margin-right: 11rem;
 }
 
 .badge {
@@ -378,14 +385,14 @@ body {
 }
 
 .btn-top-return {
-  width: 50rem;
-  height: 50rem;
-  border-radius: 25rem;
-  box-shadow: 0 0 10rem -4rem #00000026;
+    width: 50rem;
+    height: 50rem;
+    border-radius: 25rem;
+    box-shadow: 0 0 10rem -4rem #00000026;
 }
 
 .fc-0F6B4B {
-  color: #0f6b4b;
+    color: #0f6b4b;
 }
 
 .orange-box {
@@ -432,18 +439,18 @@ body {
 
 .video-card_content-box-h124 {
 
-  position: absolute;
-  width: 340rem;
-  height: 124rem;
-  top: 219.69rem;
-  left: 56.5rem;
-  padding-top: 20rem;
-  padding-left: 15rem;
-  align-items: center;
-  border-radius: 12rem;
-  border-width: 1rem;
-  background: #ffffff;
-  border: 1rem solid #0000001a;
+    position: absolute;
+    width: 340rem;
+    height: 124rem;
+    top: 219.69rem;
+    left: 56.5rem;
+    padding-top: 20rem;
+    padding-left: 15rem;
+    align-items: center;
+    border-radius: 12rem;
+    border-width: 1rem;
+    background: #ffffff;
+    border: 1rem solid #0000001a;
 }
 
 .video-card_content-box-h146 {
@@ -542,7 +549,7 @@ body {
 }
 
 .f-shrink-0 {
-  flex-shrink: 0;
+    flex-shrink: 0;
 }
 
 .content-small {
@@ -628,35 +635,35 @@ body {
 }
 
 .video-3_card {
-  position: relative;
-  width: 957.5rem;
-  height: 540rem;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    position: relative;
+    width: 957.5rem;
+    height: 540rem;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .btn-view-collection {
-  background-color: #ff8200;
-  color: black;
-  border: none;
-  padding: 12rem 24rem;
-  border-radius: 100rem;
-  font-weight: 600;
-  font-size: 14rem;
-  cursor: pointer;
-  transition: background-color 0.2s;
+    background-color: #ff8200;
+    color: black;
+    border: none;
+    padding: 12rem 24rem;
+    border-radius: 100rem;
+    font-weight: 600;
+    font-size: 14rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
 }
 
 
-.video-3_card_content-collection{
-	background-color: rgba(0, 0, 0, 0.7);
-	padding-top: 31.8rem;
-	padding-bottom: 31.11rem;
-	border-radius: 12rem;
-	text-align: center;
-	max-width: 468rem;
+.video-3_card_content-collection {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding-top: 31.8rem;
+    padding-bottom: 31.11rem;
+    border-radius: 12rem;
+    text-align: center;
+    max-width: 468rem;
 }
 
 .video-3_card_title-collection {
@@ -678,80 +685,80 @@ body {
     background-color: black;
 }
 
-.newsroom-4_press-releases-block{
-	border-style: solid;
-	border-width: 1rem 1rem 12rem;
-	border-color: rgba(243, 255, 241, 1);
-	background-color: #fff;
-	border-radius: 6rem;
-	position: relative;
-	padding: 5rem;
+.newsroom-4_press-releases-block {
+    border-style: solid;
+    border-width: 1rem 1rem 12rem;
+    border-color: rgba(243, 255, 241, 1);
+    background-color: #fff;
+    border-radius: 6rem;
+    position: relative;
+    padding: 5rem;
 }
 
 .video-3_card_title-collection {
-  color: white;
-  font-size: 34rem;
-  font-weight: 600;
-  margin-bottom: 15rem;
+    color: white;
+    font-size: 34rem;
+    font-weight: 600;
+    margin-bottom: 15rem;
 }
 
 .video-3_card_description {
-  color: white;
-  font-size: 14rem;
-  line-height: 1.6;
-  margin-bottom: 20rem;
+    color: white;
+    font-size: 14rem;
+    line-height: 1.6;
+    margin-bottom: 20rem;
 }
 
 .newsroom-4_recent-video-content-button:hover {
-  cursor: pointer;
-  background-color: black;
+    cursor: pointer;
+    background-color: black;
 }
 
 .newsroom-4_press-releases-block {
-  border-style: solid;
-  border-width: 1rem 1rem 12rem;
-  border-color: rgba(243, 255, 241, 1);
-  background-color: #fff;
-  border-radius: 6rem;
-  position: relative;
-  padding: 5rem;
+    border-style: solid;
+    border-width: 1rem 1rem 12rem;
+    border-color: rgba(243, 255, 241, 1);
+    background-color: #fff;
+    border-radius: 6rem;
+    position: relative;
+    padding: 5rem;
 }
 
 .m-credit-resources-4_content_main-container_text-block_icon {
-  width: 10rem;
-  height: 10rem;
-  margin-right: 10rem;
+    width: 10rem;
+    height: 10rem;
+    margin-right: 10rem;
 }
 
 .m-credit-resources-4_content_main-container_resource_title {
-  display: inline-block;
-  padding: 1rem 14.65rem 1rem 15rem;
-  flex-wrap: wrap;
-  font-size: 18rem;
-  font-weight: 400;
-  color: #3f4444;
-  border: 1rem solid #84bd00;
-  background-color: #84bd00;
-  color: #ffffff;
-  border-radius: 0 10rem 0 10rem;
-  margin-bottom: 5rem;
+    display: inline-block;
+    padding: 1rem 14.65rem 1rem 15rem;
+    flex-wrap: wrap;
+    font-size: 18rem;
+    font-weight: 400;
+    color: #3f4444;
+    border: 1rem solid #84bd00;
+    background-color: #84bd00;
+    color: #ffffff;
+    border-radius: 0 10rem 0 10rem;
+    margin-bottom: 5rem;
 }
 
 .m-credit-resources-4_content_main-container_text-block {
-  display: flex;
-  align-items: center;
-  width: fit-content;
-  height: 100%;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    height: 100%;
 }
 
 .m-credit-resources-4_content_main-container_text-block_text {
-  flex-wrap: wrap;
-  font-weight: 400;
-  color: #ffffff
+    flex-wrap: wrap;
+    font-weight: 400;
+    color: #ffffff
 }
 
 .m-credit-resources-4_content_main-container_resource {
-  width: 358.77rem;
+    width: 358.77rem;
 }
 
 .mr-5{
@@ -794,20 +801,20 @@ body {
     }
 
     .lh-mb-14 {
-        line-height: 14;
+        line-height: 14rem;
     }
 
     .lh-mb-22 {
-        line-height: 22;
+        line-height: 22rem;
     }
 
     .lh-mb-20 {
-        line-height: 20;
+        line-height: 20rem;
     }
 
-  .lh-mb-18 {
-    line-height: 18;
-  }
+    .lh-mb-18 {
+        line-height: 18rem;
+    }
 
   mb-fd-cl{
     display: flex;
