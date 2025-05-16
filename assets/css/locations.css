@@ -207,22 +207,29 @@
 }
 
 .banner-content {
-margin-top: -30rem;
+margin-top: 30rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
 }
 .text-section-box{
     display: flex;
 }
 .text-section {
-    margin-left: 40rem;
+    margin-left: 48rem;
   width: 921.59rem;
 }
 
 .image-section {
-  width: 341.78rem;
-  position: relative;
+  width: 242rem;
+  height: 320rem;
+  position: absolute;
+  background-image: url(/assets/img/image-section.png);
+  background-size: cover;
+  top: -65rem;
+  right: 52.56rem;
+
 }
 .title.fs-48 {
     width: 709.3rem;
@@ -243,8 +250,4 @@ margin-top: -30rem;
 }
 .link-text.fs-13 a{
     color: white;
-}
-.award-img {
-  position: absolute;
-  top: -35rem;
 }
