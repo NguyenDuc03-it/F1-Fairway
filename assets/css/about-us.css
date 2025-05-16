@@ -466,7 +466,7 @@ body{
 
 @media only screen and (max-width: 480px) {
   .about-us-3_content-btn {
-    display: block;
+    display: flex;
   }
 }
 /* end - about-us-3 */

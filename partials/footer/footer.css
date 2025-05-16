@@ -1,36 +1,21 @@
-@media (min-aspect-ratio: 1920/719.28) and (min-width: 768px) {
-
-    html {
-        font-size: 0.1390279168vh;
-    }
-}
-
-@media (max-aspect-ratio: 1920/719.28) and (min-width: 768px) {
-    html {
-        font-size: 0.05208333333vw;
-    }
-}
-
-* {
-    margin: 0;
-    padding: 0;
-    font-family: Montserrat;
-    box-sizing: border-box;
+#footer {
+    width: 100%;
 }
 
 .footer {
-    width: 1920rem;
+    width: 100%;
     height: 719.280029296875rem;
     display: grid;
     grid-template-rows: 645.0000305175781rem 74.27999877929688rem;
 }
 
 .ft_container {
+    display: flex;
+    justify-content: center;
     background: #EEEEEE;
-    width: 1920rem;
+    width: 100%;
     background-image: url("/assets/img/ft_container.png");
     padding-top: 65rem;
-    padding-left: 321rem;
 }
 
 .ft_content_contact-category_layer-2 :nth-child(2) {
@@ -74,7 +59,7 @@
 .ft_content_contact-hub_sub-content-heading div:first-child p {
     width: 340.5299987792969rem;
     height: 48rem;
-    line-height: 26px;
+    line-height: 26rem;
     text-decoration: underline;
     text-decoration-style: solid;
     text-decoration-thickness: 0%;
@@ -101,7 +86,7 @@
     width: 435.8299865722656rem;
     height: 236rem;
     border-radius: 6rem;
-    border: 2px solid #00973a;
+    border: 2rem solid #00973a;
 }
 
 .ft_content_contact-hub_sub-heading {
@@ -121,7 +106,7 @@
     width: 437.8299865722656rem;
     height: 238rem;
     border-radius: 12rem;
-    border: 1px solid #e6e2db;
+    border: 1rem solid #e6e2db;
     padding: 31rem 0 0 31rem;
     background: #FFFFFF;
     flex-direction: column;
