@@ -769,11 +769,6 @@ body {
     .ai-tl-center {
         align-items: center !important;
     }
-
-    tb-fd-cl{
-        display: flex;
-        flex-direction: column;
-    }
 }
 
 @media only screen and (max-width: 480px) {
@@ -807,11 +802,6 @@ body {
 
   .lh-mb-18 {
     line-height: 18;
-  }
-
-  mb-fd-cl{
-    display: flex;
-    flex-direction: column;
   }
 
 }
