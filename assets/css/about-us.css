@@ -107,15 +107,16 @@
 
 .date {
   border-radius: 20rem;
-  width: 120rem;
-  height: 30rem;
-  border-style: solid;
-  border-color: #fff;
-  border-width: 2rem;
-  background-color: #f3fff1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    width: 120rem;
+    height: 30rem;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 2rem;
+    background-color: #f3fff1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0F6B4B;
 }
 
 .swiper-button-wrapper {
@@ -597,4 +598,14 @@ body{
   padding: 15rem 29.622rem 15rem 30rem;
   background: #FF8200;
   margin-top: 15.03rem;
+}
+
+@media screen and (max-width:768px) {
+.hidden-card {
+    display: none;
+}
+  .testimonial-slider{
+    width: 768rem;
+    justify-content: center;
+  }
 }
