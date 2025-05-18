@@ -86,6 +86,8 @@
     height: 18rem;
     vertical-align: middle;
     color: #115740;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .header-navbar-controls-button {
