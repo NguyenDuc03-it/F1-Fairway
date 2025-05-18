@@ -27,6 +27,7 @@ height: auto;
 
 .container-small :nth-of-type(2){
     margin-top: 19.39rem;
+    letter-spacing: 3rem;
     display: flex;
     justify-content: center;
 }
