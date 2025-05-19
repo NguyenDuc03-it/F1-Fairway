@@ -85,6 +85,7 @@
     height: 582rem;
     padding-top: 50rem;
     background-image: url("/assets/img/m-credit-resource-1.png");
+    background-size: 100% 100%;
 }
 
 .m-credit-resource-1_container_video-frame_action-bar_action-bar-control_time-notice p {
