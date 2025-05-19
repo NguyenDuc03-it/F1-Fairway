@@ -60,6 +60,9 @@ body {
     margin-top: 36rem;
 }
 
+.mt-32{
+    margin-top: 32rem;
+}
 
 .small-wwa {
     width: 616rem;
@@ -617,6 +620,10 @@ body {
     height: 24rem;
 }
 
+.fc-green-p{
+    color: #00973A;
+}
+
 .mt-26 {
     margin-top: 26rem;
 }
@@ -684,15 +691,6 @@ body {
     background-color: black;
 }
 
-.newsroom-4_press-releases-block {
-    border-style: solid;
-    border-width: 1rem 1rem 12rem;
-    border-color: rgba(243, 255, 241, 1);
-    background-color: #fff;
-    border-radius: 6rem;
-    position: relative;
-    padding: 5rem;
-}
 
 .video-3_card_title-collection {
     color: white;
@@ -720,7 +718,6 @@ body {
     background-color: #fff;
     border-radius: 6rem;
     position: relative;
-    padding: 5rem;
 }
 
 .m-credit-resources-4_content_main-container_text-block_icon {
