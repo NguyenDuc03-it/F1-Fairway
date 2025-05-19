@@ -184,16 +184,18 @@
   grid-template-rows: auto;
   grid-template-columns: 0.25fr 1fr;
   align-items: center;
-  padding: 6rem 6rem 6rem 20rem;
+  padding: 6rem;
   font-size: 12rem;
   line-height: 16rem;
   text-decoration: underline;
-  border-style: solid;
-  border-width: 1rem 1rem 12rem;
   border-color: rgba(243, 255, 241, 1);
   background-color: #fff;
   border-radius: 6rem;
-  position: relative;
+}
+.newsroom-4_press-releases-text{
+  padding-left: 16rem;
+color: rgba(63, 68, 68, 1);
+cursor: pointer;
 }
 .newsroom-4_press-releases-detail {
   letter-spacing: 1rem;
@@ -206,7 +208,7 @@
   line-height: 9rem;
   display: flex;
   position: absolute;
-  bottom: -1rem;
+  bottom: -20rem;
   right: -1rem;
   background-color: rgba(250, 248, 244, 1);
   border: 1rem solid rgba(243, 255, 241, 1);
@@ -216,14 +218,12 @@
   text-decoration: underline;
   text-decoration-style: solid;
   text-decoration-thickness: 1rem;
-  text-decoration-color: #000;
   cursor: pointer;
 }
 .newsroom-4_press-releases-image {
   background-size: cover;
   height: 80rem;
   width: 100rem;
-  margin-bottom: 5rem;
 }
 #newroom-4-1 {
   background-image: url("../img/releases-image1.png");
@@ -236,9 +236,6 @@
 }
 .d-grid {
   display: grid;
-}
-.newsroom-4_press-releases-text {
-  margin-left: 16rem;
 }
 .newsroom-4_press-releases-block {
   border: 0rem;
@@ -608,8 +605,6 @@
 .m-newroooms-2-layer-5 {
   width: 75rem;
   height: 75rem;
-  /* left: -28rem;
-top: -33rem; */
 }
 .m-newroom-2-logo-banner {
   margin-top: 5rem;
@@ -669,4 +664,5 @@ top: -33rem; */
   position: absolute;
   bottom: 0rem;
 }
+
 /* vinh-end */
