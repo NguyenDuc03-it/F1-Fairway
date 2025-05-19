@@ -97,10 +97,10 @@
 
 .btn-top-return {
     position: absolute;
-    top: 1225rem;
-    left: 1856rem;
-    background: #FFFFFF;
+    top: 694rem;
+    right: 14rem;
     z-index: 1000;
+    background: #FFFFFF;
 }
 
 .video-2_main-content_heading-holder {
