@@ -7,6 +7,12 @@
     padding-left: 350rem;
 }
 
+.btn-top-return{
+    top: 447rem;
+    right: 14rem;
+    cursor: pointer;
+}
+
 .m-credit-resources-2_container {
     width: 1220rem;
     height: 624rem;
