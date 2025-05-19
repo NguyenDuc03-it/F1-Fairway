@@ -60,6 +60,10 @@ body {
   margin-top: 36rem;
 }
 
+.mt-32 {
+  margin-top: 32rem;
+}
+
 .small-wwa {
   width: 616rem;
   color: #fff;
@@ -616,6 +620,10 @@ body {
   height: 24rem;
 }
 
+.fc-green-p {
+  color: #00973a;
+}
+
 .mt-26 {
   margin-top: 26rem;
 }
@@ -652,6 +660,7 @@ body {
   font-size: 14rem;
   cursor: pointer;
   transition: background-color 0.2s;
+  line-height: 20rem;
 }
 
 .video-3_card_content-collection {
@@ -668,13 +677,19 @@ body {
   font-size: 34rem;
   font-weight: 600;
   margin-bottom: 15rem;
+  line-height: 38rem;
 }
 
 .video-3_card_description {
   color: white;
   font-size: 14rem;
-  line-height: 1.6;
+  line-height: 24rem;
   margin-bottom: 20rem;
+}
+
+.newsroom-4_recent-video-content-button:hover {
+  cursor: pointer;
+  background-color: black;
 }
 
 .newsroom-4_recent-video-content-button:hover {
@@ -689,36 +704,6 @@ body {
   background-color: #fff;
   border-radius: 6rem;
   position: relative;
-  padding: 5rem;
-}
-
-.video-3_card_title-collection {
-  color: white;
-  font-size: 34rem;
-  font-weight: 600;
-  margin-bottom: 15rem;
-}
-
-.video-3_card_description {
-  color: white;
-  font-size: 14rem;
-  line-height: 1.6;
-  margin-bottom: 20rem;
-}
-
-.newsroom-4_recent-video-content-button:hover {
-  cursor: pointer;
-  background-color: black;
-}
-
-.newsroom-4_press-releases-block {
-  border-style: solid;
-  border-width: 1rem 1rem 12rem;
-  border-color: rgba(243, 255, 241, 1);
-  background-color: #fff;
-  border-radius: 6rem;
-  position: relative;
-  padding: 5rem;
 }
 
 .m-credit-resources-4_content_main-container_text-block_icon {
@@ -736,9 +721,9 @@ body {
   color: #3f4444;
   border: 1rem solid #84bd00;
   background-color: #84bd00;
-  color: #ffffff;
   border-radius: 0 10rem 0 10rem;
   margin-bottom: 5rem;
+  line-height: 24rem;
 }
 
 .m-credit-resources-4_content_main-container_text-block {
@@ -752,6 +737,7 @@ body {
   flex-wrap: wrap;
   font-weight: 400;
   color: #ffffff;
+  line-height: 24rem;
 }
 
 .m-credit-resources-4_content_main-container_resource {
