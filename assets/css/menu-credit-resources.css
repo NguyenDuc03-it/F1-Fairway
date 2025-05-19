@@ -522,7 +522,7 @@
     display: grid;
     grid-template-columns: 670rem 1250rem;
     padding: 40rem;
-    border-left: 1rem solid #ffffff
+    border-left: 1rem solid #DBDBDB;
 }
 
 .m-credit-resources-4_content_main-container {
