@@ -92,19 +92,15 @@
     border-width: 1rem;
     background: #FFFFFF;
     border: 1rem solid #0000001A;
+    z-index: 99;
 }
 
-.video_btn-top-return {
-    position: fixed;
-    width: 50rem;
-    height: 50rem;
+.btn-top-return {
+    position: absolute;
     top: 1225rem;
     left: 1856rem;
-    border-radius: 25rem;
-    border-width: 1;
     background: #FFFFFF;
-    border: 1rem solid #EBEBEB;
-    box-shadow: 0 0 10rem -4rem #00000026;
+    z-index: 1000;
 }
 
 .video-2_main-content_heading-holder {
