@@ -37,6 +37,7 @@
 .In-the-Community-1-return-button-arrow{
   width: 26rem;
   height: 15rem;
+  object-fit: cover;
 }
 .hero-module--logo {
   width: 575rem;

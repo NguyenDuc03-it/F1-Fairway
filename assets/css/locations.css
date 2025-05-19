@@ -39,6 +39,11 @@
   margin-right: 6rem;
 }
 
+.location-1-content-left-redirect-home-icon {
+    width: 9rem;
+    height: 10.88rem;
+}
+
 .location-1-content-left-redirect-home-page {
   width: 30.2rem;
   height: 11rem;
@@ -94,28 +99,29 @@
 }
 
 .location-1-content-right-button-search-by-address {
-  width: 216.03rem;
-  height: 40rem;
-  padding: 11rem 29.8rem 11rem 32rem;
-  color: #9fe400;
-  border-radius: 30rem 0 0 30rem;
-  border-top: 2rem solid #6d6d6d;
-  border-bottom: 2rem solid #6d6d6d;
-  border-left: 2rem solid #6d6d6d;
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #000), #3f4444;
+    width: 216.03rem;
+    height: 40rem;
+    padding: 11rem 29.8rem 11rem 32rem;
+    color: #9FE400;
+    border-radius: 30rem 0 0 30rem;
+    border-top: 2rem solid #6D6D6D;
+    border-bottom: 2rem solid #6D6D6D;
+    border-left: 2rem solid #6D6D6D;
+    background: linear-gradient(to bottom, #7c7c7c, #242323);
+    border-right: none;
 }
 
 .location-1-content-right-button-search-by-name {
-  width: 189.31rem;
-  height: 40rem;
-  padding: 11rem 31.8rem 11rem 30rem;
-  color: #004f5b;
-  border-radius: 0 30rem 30rem 0;
-  border-top: 2rem solid #84bd00;
-  border-right: 2rem solid #84bd00;
-  border-bottom: 2rem solid #84bd00;
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #84bd00),
-    #faf8f4;
+    width: 189.31rem;
+    height: 40rem;
+    padding: 11rem 31.8rem 11rem 30rem;
+    color: #004F5B;
+    border-radius: 0 30rem 30rem 0;
+    border-top: 2rem solid #84BD00;
+    border-right: 2rem solid #84BD00;
+    border-bottom: 2rem solid #84BD00;
+    border-left: none;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.00), #84BD00), #FAF8F4;
 }
 
 .location-1-content-right-tabpanel {
@@ -192,43 +198,48 @@
     line-height: normal;
   }
 }
+
 /* hung */
 .locations-2.mt-24 {
-  width: 1280rem;
-  height: 250rem;
-  background-image: url("/assets/img/locations-2.mt-24.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
+    width: 1280rem;
+    height: 250rem;
+    background-image: url('/assets/img/locations-2.mt-24.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
 }
+
 .text-section-box img {
-  width: 122.3rem;
-  height: 111.16rem;
+    width: 122.3rem;
+    height: 111.16rem;
 }
 
 .banner-content {
-  margin-top: 30rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: relative;
+    margin-top: 30rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
 }
+
 .text-section-box {
-  display: flex;
+    display: flex;
 }
+
 .text-section {
-  margin-left: 48rem;
-  width: 921.59rem;
+    margin-left: 48rem;
+    width: 921.59rem;
 }
 
 .image-section {
-  width: 242rem;
-  height: 320rem;
-  position: absolute;
-  background-image: url(/assets/img/image-section.png);
-  background-size: cover;
-  top: -65rem;
-  right: 52.56rem;
+    width: 242rem;
+    height: 320rem;
+    position: absolute;
+    background-image: url(/assets/img/image-section.png);
+    background-size: cover;
+    top: -65rem;
+    right: 52.56rem;
 }
+
 .title.fs-48 {
   width: 709.3rem;
   padding-left: 18rem;
@@ -238,25 +249,28 @@
 }
 
 .sub.fs-16 {
-  font-size: 16rem;
-  margin-top: 10px;
+    font-size: 16rem;
+    margin-top: 10px;
 }
 
 .link-text.fs-13 {
-  font-size: 13rem;
-  margin-top: 45.84rem;
+    font-size: 13rem;
+    margin-top: 45.84rem;
 }
+
 .link-text.fs-13 a {
-  color: white;
+    color: white;
 }
+
 .locations-2-box {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  width: 1920rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 1920rem;
 }
+
 .btn-top-return {
-  position: absolute;
-  top: 227rem;
-  right: 14rem;
+    position: absolute;
+    top: 246rem;
+    right: 14rem;
 }
