@@ -20,6 +20,23 @@
   width: 1920rem;
   height: 388rem;
   color: rgba(40, 62, 57, 1);
+  position: relative;
+}
+.In-the-Community-1-return-button{
+    width: 50rem;
+    height: 50rem;
+    border-radius: 25rem;
+    border: 1rem solid #EBEBEB;
+    background: #FFF;
+    cursor: pointer;
+    box-shadow: 0rem 0rem 10rem -4rem rgba(0, 0, 0, 0.15);
+    position: absolute;
+    bottom: -30rem;
+    right: 14rem;
+}
+.In-the-Community-1-return-button-arrow{
+  width: 26rem;
+  height: 15rem;
 }
 .hero-module--logo {
   width: 575rem;
@@ -307,3 +324,5 @@
 }
 
 /*end code btung*/
+
+
