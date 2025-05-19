@@ -660,6 +660,7 @@ body {
     font-size: 14rem;
     cursor: pointer;
     transition: background-color 0.2s;
+    line-height: 20rem;
 }
 
 
@@ -677,33 +678,19 @@ body {
     font-size: 34rem;
     font-weight: 600;
     margin-bottom: 15rem;
+    line-height: 38rem;
 }
 
 .video-3_card_description {
     color: white;
     font-size: 14rem;
-    line-height: 1.6;
+    line-height: 24rem;
     margin-bottom: 20rem;
 }
 
 .newsroom-4_recent-video-content-button:hover {
     cursor: pointer;
     background-color: black;
-}
-
-
-.video-3_card_title-collection {
-    color: white;
-    font-size: 34rem;
-    font-weight: 600;
-    margin-bottom: 15rem;
-}
-
-.video-3_card_description {
-    color: white;
-    font-size: 14rem;
-    line-height: 1.6;
-    margin-bottom: 20rem;
 }
 
 .newsroom-4_recent-video-content-button:hover {
@@ -735,9 +722,9 @@ body {
     color: #3f4444;
     border: 1rem solid #84bd00;
     background-color: #84bd00;
-    color: #ffffff;
     border-radius: 0 10rem 0 10rem;
     margin-bottom: 5rem;
+    line-height: 24rem;
 }
 
 .m-credit-resources-4_content_main-container_text-block {
@@ -750,7 +737,8 @@ body {
 .m-credit-resources-4_content_main-container_text-block_text {
     flex-wrap: wrap;
     font-weight: 400;
-    color: #ffffff
+    color: #ffffff;
+    line-height: 24rem;
 }
 
 .m-credit-resources-4_content_main-container_resource {
