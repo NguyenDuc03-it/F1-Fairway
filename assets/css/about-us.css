@@ -169,7 +169,7 @@
 .logo-badge {
   width: 550rem;
   height: 242.89rem;
-  margin-right: 34.5rem;
+  margin-right: 59.5rem;
 }
 
 .title-badge {
@@ -198,6 +198,7 @@
 }
 
 .card-paints-bot {
+  margin-top: 29.4rem;
   width: 1148rem;
   border-top: 1rem solid rgba(0, 0, 0, 0.1);
   justify-content: space-around;
