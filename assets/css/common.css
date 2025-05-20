@@ -154,7 +154,7 @@ body {
 .type-details-h605 {
   border: 1rem solid #e2e2e2;
   background: #f8f8f8;
-  background-image: url("/assets/img/loan-products-2_type-details.png");
+  background-image: url("../img/loan-products-2_type-details.png");
   background-size: cover;
   width: 368rem;
   height: 605.78rem;
@@ -165,7 +165,7 @@ body {
 .type-details-h822 {
   border: 1rem solid #e2e2e2;
   background: #f8f8f8;
-  background-image: url("/assets/img/loan-product-2_type-details-spe.png");
+  background-image: url("../img/loan-product-2_type-details-spe.png");
   background-size: cover;
   width: 368rem;
   height: 822.780029296875rem;

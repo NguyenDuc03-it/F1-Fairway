@@ -14,7 +14,7 @@
     justify-content: center;
     background: #EEEEEE;
     width: 100%;
-    background-image: url("/assets/img/ft_container.png");
+    background-image: url("../img/ft_container.png");
     background-size: cover;
     padding-top: 65rem;
 }
