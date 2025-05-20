@@ -194,6 +194,7 @@
   margin-left: 36rem;
   width: 312rem;
   margin: 18rem 36rem;
+  z-index: 1;
 }
 .m-homeownership-hub-2_contentRight_content2_published.jd-row {
   display: flex;
@@ -224,6 +225,12 @@
   height: 34rem;
   top: -12rem;
   right: 0rem;
+}
+.homeowner-btn.btn-top-return {
+  position: absolute;
+  right: 14rem;
+  top: 1152rem;
+  box-shadow: none;
 }
 /* end code Huy */
 /*start code by btung*/
