@@ -364,6 +364,7 @@
 }
 
 .video-1 {
+  justify-content: center;
   gap: 30rem;
 }
 

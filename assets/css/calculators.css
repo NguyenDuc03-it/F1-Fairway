@@ -2,7 +2,7 @@
   justify-items: center;
   width: 1920rem;
   height: 913.17rem;
-  background-image: url(/assets/img/calculators-2.png);
+  background-image: url(../img/calculators-2.png);
   background-size: contain;
   position: relative;
 }
@@ -72,7 +72,7 @@
   flex-direction: column;
   display: flex;
   align-items: center;
-  background-image: url("/assets/img/product-card.png");
+  background-image: url("../img/product-card.png");
 }
 .list-product-card {
   margin-top: 70rem;

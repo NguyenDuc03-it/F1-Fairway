@@ -1,7 +1,7 @@
 /* tuyenvp location-1 */
 .locations-1 {
   height: auto;
-  background-image: url(/assets/img/locations-1.png);
+  background-image: url(../img/locations-1.png);
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
@@ -203,7 +203,7 @@
 .locations-2.mt-24 {
     width: 1280rem;
     height: 250rem;
-    background-image: url('/assets/img/locations-2.mt-24.jpg');
+    background-image: url(../img/locations-2.mt-24.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -234,7 +234,7 @@
     width: 242rem;
     height: 320rem;
     position: absolute;
-    background-image: url(/assets/img/image-section.png);
+    background-image: url(../img/image-section.png);
     background-size: cover;
     top: -65rem;
     right: 52.56rem;

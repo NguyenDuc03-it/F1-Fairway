@@ -44,7 +44,7 @@
     background: linear-gradient(325.66deg,
             rgba(0, 0, 0, 0.45) 0%,
             rgba(255, 255, 255, 0.17) 100%),
-        url("/assets/img/m-credit-resource-2_link-fill.jpg");
+        url("../img/m-credit-resource-2_link-fill.jpg");
     box-shadow: 1rem 1rem 3rem 0rem #000000cf;
     padding: 27rem 0 0 50rem;
     gap: 19.39rem;
