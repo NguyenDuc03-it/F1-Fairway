@@ -183,6 +183,14 @@
   top: -22rem;
   text-transform: uppercase;
   letter-spacing: -1rem;
+  font-size: 36rem;
+  background-color: #fff;
+  left: -25rem;
+  color: #00973A;
+}
+
+.p-badge-title-expect{
+  color: #115740;
 }
 
 .p-badge-first {
