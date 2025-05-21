@@ -136,11 +136,7 @@
 }
 
 .ft_content_contact-category_layer-1 :nth-child(13) {
-    margin: 0 0 0 15rem;
-}
-
-.ft_content_contact-category_layer-1 :nth-child(15) {
-    margin: 0 0 0 15rem;
+    margin-left: 15rem;
 }
 
 .ft_content_contact-category_layer-1 :nth-child(12),
@@ -148,8 +144,9 @@
 .ft_content_contact-category_layer-1 :nth-child(9),
 .ft_content_contact-category_layer-1 :nth-child(8),
 .ft_content_contact-category_layer-1 :nth-child(3),
+.ft_content_contact-category_layer-1 :nth-child(15),
 .ft_content_contact-category_layer-1 :nth-child(6) {
-    margin: 0 0 0 15rem;
+    margin-left: 15rem;
 }
 
 .ft_content_contact-category_layer-1 :nth-child(8),
