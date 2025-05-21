@@ -152,6 +152,16 @@
     margin: 0 0 0 15rem;
 }
 
+.ft_content_contact-category_layer-1 :nth-child(8),
+.ft_content_contact-category_layer-1 :nth-child(15),
+.ft_content_contact-category_layer-1 :nth-child(12){
+    margin-top: 5rem;
+}
+
+.ft_content_contact-category_layer-1 :nth-child(6),
+.ft_content_contact-category_layer-1 :nth-child(9){
+    margin-top: 3rem;
+    
 .ft_content_contact-category_layer-1 :nth-child(2) {
     margin: 4.78rem 0 0 15rem;
 }
