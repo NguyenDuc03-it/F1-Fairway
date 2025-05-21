@@ -317,7 +317,7 @@ body {
 
 .about-us-1_con2_box {
   margin-top: -48rem;
-  padding-left: 54rem;
+  padding-left: 48rem;
 }
 
 .about-us-1_con2_textL1 {
@@ -335,6 +335,7 @@ body {
   width: 569rem;
   height: 96rem;
   font-size: 48rem;
+  line-height: 48rem;
 }
 
 .about-us-1_con2_textL2 {
@@ -357,7 +358,7 @@ body {
 }
 
 .about-us-1_con3_head {
-  width: 1220.35rem;
+  width: 1270.35rem;
   padding-left: 30rem;
   margin-bottom: 23rem;
 }
