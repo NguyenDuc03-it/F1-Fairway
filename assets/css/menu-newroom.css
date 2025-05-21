@@ -454,6 +454,7 @@
 /* Responsive Design */
 @media (max-width: 768px) {
   .m-newroom-3 {
+    padding-left: 0;
     flex-direction: column;
     height: fit-content;
     align-items: center;
